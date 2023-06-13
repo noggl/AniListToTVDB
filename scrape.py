@@ -1,4 +1,4 @@
-# Scrapes thexem.info for all mappings and saves them to mappings.json
+# Scrapes thexem.info for all mappings and saves them to XEM.json
 
 import json
 import requests

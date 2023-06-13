@@ -1,6 +1,6 @@
-# Creates CSV from mappings.json
+# Creates CSV from XEM.json
 # CSV is in format Title;AniList ID;TVDB ID/TMDB ID;Season #
-# mappings.json is in format {title: [{AniList ID: TVDB ID}}, with the AniList IDs in order of season number
+# XEM.json is in format {title: [{AniList ID: TVDB ID}}, with the AniList IDs in order of season number
 
 import json
 import csv
@@ -44,7 +44,7 @@ def getAniListID(AOD,AniDB_IDs):
 
 def main():
     AOD=setupAOD()
-    with open("mappings.json", "r") as f:
+    with open("XEM.json", "r") as f:
             mappings = json.load(f)
             with open("mappings.csv", "w") as f:
                 #Sort mappings by title
