@@ -15,6 +15,7 @@ AOD is an offline database, so the script just downloads the .json file from the
 - [os](https://docs.python.org/3/library/os.html)
 - [json](https://docs.python.org/3/library/json.html)
 - [csv](https://docs.python.org/3/library/csv.html)
+
 To install the requirements, run `pip install -r requirements.txt`
 
 ## Usage
