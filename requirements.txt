@@ -1,5 +1,2 @@
 wget
 requests
-os
-json
-csv
