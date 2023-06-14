@@ -17,8 +17,8 @@ jobs:
           python-version: 3.8 #install the python needed
       - name: execute py script
         run: |
-          python createCSV.py
-          echo "Continuing"
+          git submodule update --init --recursive
+          python createCSV.py; exit 0
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add mapping.csv
