@@ -3,23 +3,14 @@ Scripts to Find the TVDB ID of AniList Titles using XEM and AOD
 ### **Looking for the mapping.csv file? [Click here!](https://raw.githubusercontent.com/noggl/AniListToTVDB/main/mapping.csv)**
 ------------------------
 ## About
-This came about because I couldn't find a way to relate AniList IDs to TVDB IDs for my project [AniPlanrr](https://github.com/noggl/AniPlanrr). The matching could only be done by name, and that was not reliable enough. This script uses the [XEM](https://thexem.info/) and [AOD](https://github.com/manami-project/anime-offline-database) to first link AniDB IDs to TVDB IDs (using XEM), and then replace the AniDB IDs with AniList IDs (using AOD).
+This came about because I couldn't find a way to relate AniList IDs to TVDB or TMDB IDs for my project [AniPlanrr](https://github.com/noggl/AniPlanrr). The matching could only be done by name, and that was not reliable enough. This script uses the [Fribb's anime-lists](https://github.com/Fribb/anime-lists) and [manami-project's AOD](https://github.com/manami-project/anime-offline-database) to create a CSV file that can be used to relate AniList IDs to TVDB or TMDB IDs.
 
-There is an API for XEM, but it did not seem to be possible to get TVDB IDs when providing an AniDB ID, or an AniDB ID when providing a TVDB ID, so I had to scrape the website. This is not ideal, but it works. If the [API is updated to allow this](https://github.com/thezoggy/xem/issues/5), I will update the script to use it.
-
-AOD is an offline database, so the script just downloads the .json file from the master branch and reads it.
+Both of these resources are .json files housed in the project's github repo, so this project downloads those files and parses them to create the CSV file.
 
 ## Requirements
 - Python 3
-- [Requests](https://pypi.org/project/requests/)
-- [wget](https://pypi.org/project/wget/)
-
-To install the requirements, run `pip install -r requirements.txt`
+- git
 
 ## Usage
 
-**YOU SHOULD NOT NEED TO RUN THESE SCRIPTS!! I WILL PROVIDE THE `mappings.csv` FILE IN THE REPO. RUNNING THE SCRIPTS WILL HIT THE XEM WEBSITE, AND I DON'T WANT TO OVERLOAD IT. IF YOU THINK SOMETHING IS OUT OF DATE, PLEASE OPEN AN ISSUE.**
-
-There are 2 parts to this process, getting the data from XEM and then relating it to AniList IDs using AOD. To do the first part, run `python3 scrape.py`. This will create a file called `XEM.json` which contains the data from XEM.
-
-To relate the data to AniList IDs, run `python3 createCSV.py`. This will create a file called `mappings.csv` which contains the data from XEM, but with AniList IDs instead of AniDB IDs. This will take a while, as it has to download the AOD file and read it. The `mappings.csv` can then be used in a program like [AniPlanrr](https://github.com/noggl/AniPlanrr).
+Run the script with `python3 createCSV.py`. This will clone/update the github repos and create the `mappings.csv` to be used in a program like [AniPlanrr](https://github.com/noggl/AniPlanrr).
