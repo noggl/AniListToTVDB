@@ -166,10 +166,8 @@ def main():
                         print("Added " + show["title"] + " (" + str(show["anilist_id"]) + ") Season " + str(show["animeSeason"]))
                     elif show["type"] == "MOVIE":
                         print("Added " + show["title"] + " (" + str(show["anilist_id"]) + ")")
-        return 0
     else:
         print("No changes, exiting")
-        return 0
 
 
 if __name__ == "__main__":
