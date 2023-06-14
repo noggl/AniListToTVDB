@@ -133,4 +133,11 @@ def test():
     pr(mappings)
 
 if __name__ == "__main__":
-    main()
+    #confirm that the user needs to scrape thexem.info, and that they can't use the existing XEM.json
+    print("")
+    pr("!!!!!!!!!!!!!PLEASE DO NOT SCRAPE XEM!!!!!!!!!!!!!")
+    pr("You should be able to just use the mapping.csv file in the github repo!")
+    pr("Are you sure you want to proceed? (y/n)")
+    if input().lower() == "y":
+        pr("Scraping thexem.info")
+        main()
