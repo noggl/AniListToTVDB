@@ -6,6 +6,7 @@ import json
 import csv
 import os
 import subprocess
+import sys
 
 def updateRepos():
     changes=False
@@ -41,13 +42,13 @@ def updateRepos():
 def loadAOD():
     with open("anime-offline-database/anime-offline-database.json", "r") as f:
         aod = json.load(f).get("data")
-    print(str(len(aod)) + " shows in AOD")
+    print(str(len(aod)) + " entries in AOD")
     return aod
 
 def loadAnimeList():
     with open("anime-lists/anime-list-full.json", "r") as f:
         anime_list = json.load(f)
-    print(str(len(anime_list)) + " shows in anime-list.json")
+    print(str(len(anime_list)) + " entries in anime-list")
     return anime_list
 
 def createMapping():
@@ -56,6 +57,8 @@ def createMapping():
     # Initialize mappings list
     mappings=[]
     for show in anime_list:
+            #Display progress
+            sys.stdout.write("\rLinking anime-list and AOD: " + str(len(mappings)) + "/" + str(len(anime_list)))
             showKeys=list(show.keys())
             if "anilist_id" in showKeys:
                 # Look for show in AOD
@@ -67,7 +70,7 @@ def createMapping():
                         found=True
                         break
                 if found:
-                        #Add Title and season from AOD to show
+                    #Add Title and season from AOD to show
                     show["title"]=aod_show["title"]
                     # Combine animeSeason's year and season keys into string for sorting
                     if aod_show["animeSeason"]["season"]:
@@ -91,16 +94,17 @@ def createMapping():
                     # Write to CSV
                     showKeys=list(show.keys())
                     if "id" in showKeys:
-                        # Add to mappings
-                        print("Linked " + show["title"] + " (" + str(show["anilist_id"]) + ")")
                         # If show is tv or a movie
                         if show["type"] == "TV" or show["type"] == "MOVIE":
                             mappings.append(show)
+    print("\nLinked " + str(len(mappings)) + " shows and movies between anime-list and AOD")
     return mappings
 
 def orderSeasons(mappings):
     seasonedMappings=[]
     for i in range(len(mappings)):
+        # Display progress
+        sys.stdout.write("\rOrdering seasons: " + str(i) + "/" + str(len(mappings)))
         #if mappings[i] is not already in seasonedMappings
         if not any(d["id"] == mappings[i]["id"] for d in seasonedMappings):
             seasons=[]
@@ -121,23 +125,47 @@ def orderSeasons(mappings):
                 seasons[0]["animeSeason"]=1
             #print("Found " + str(len(seasons)) + " seasons for " + seasons[0]["title"] + " (" + str(seasons[0]["anilist_id"]) +")")
             if len(seasons) > 1 and seasons[0]["type"] == "MOVIE":
-                print("That's a bit weird, " + seasons[0]["title"] + " (" + str(seasons[0]["anilist_id"]) + ") is a movie and has " + str(len(seasons)) + " seasons")
+                print("\nWARNING: That's a bit weird, " + seasons[0]["title"] + " (" + str(seasons[0]["anilist_id"]) + ") is a movie and has " + str(len(seasons)) + " seasons")
             for season in seasons:
                 seasonedMappings.append(season)
     # Sort mappings by title
     seasonedMappings.sort(key=lambda x: x["title"])
+    # Get movies list
+    movies=[]
+    shows=set()
+    for show in seasonedMappings:
+        if show["type"] == "MOVIE":
+            movies.append(show)
+        else:
+            shows.add(show["title"])
+    print("\n\nFound " + str(len(seasonedMappings) - len(movies)) + " seasons across " + str(len(shows)) + " shows, and " + str(len(movies)) + " movies")
     # Write to CSV
     # Clear CSV
     return seasonedMappings
 
 def main():
-    if updateRepos():
+    # if there have been changes or if argument is given
+    if updateRepos() or len(sys.argv) > 1:
+        print("\nBuilding mapping!")
         mappings=createMapping()
         seasonedMappings=orderSeasons(mappings)
+        # Load old mapping
+        oldMapping=[]
+        with open("mapping.csv", "r") as f:
+            reader = csv.reader(f, delimiter=";")
+            for row in reader:
+                oldMapping.append(row)
         open("mapping.csv", "w").close()
+        print("\nChanges:")
         for show in seasonedMappings:
             with open("mapping.csv", "a") as f:
                 csv.writer(f, delimiter=";").writerow([show["title"], show["anilist_id"], show["id"], show["animeSeason"]])
+                # If show is not in oldMapping
+                if not any(d[1] == str(show["anilist_id"]) for d in oldMapping):
+                    if show["type"] == "TV":
+                        print("Added " + show["title"] + " (" + str(show["anilist_id"]) + ") Season " + str(show["animeSeason"]))
+                    elif show["type"] == "MOVIE":
+                        print("Added " + show["title"] + " (" + str(show["anilist_id"]) + ")")
     else:
         print("No changes, exiting")
 
