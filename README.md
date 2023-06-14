@@ -1,6 +1,7 @@
 # AniListToTVDB
 Scripts to Find the TVDB ID of AniList Titles using XEM and AOD
-
+### **Looking for the mapping.csv file? [Click here!](https://raw.githubusercontent.com/noggl/AniListToTVDB/main/mapping.csv)**
+------------------------
 ## About
 This came about because I couldn't find a way to relate AniList IDs to TVDB IDs for my project [AniPlanrr](https://github.com/noggl/AniPlanrr). The matching could only be done by name, and that was not reliable enough. This script uses the [XEM](https://thexem.info/) and [AOD](https://github.com/manami-project/anime-offline-database) to first link AniDB IDs to TVDB IDs (using XEM), and then replace the AniDB IDs with AniList IDs (using AOD).
 
