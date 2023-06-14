@@ -45,15 +45,15 @@ def getAniListID(AOD,AniDB_IDs):
 def main():
     AOD=setupAOD()
     with open("XEM.json", "r") as f:
-            mappings = json.load(f)
-            with open("mappings.csv", "w") as f:
-                #Sort mappings by title
-                mappings = dict(sorted(mappings.items()))
-                for title in mappings:
-                        keys=getAniListID(AOD,list(mappings[title].keys()))
+            mapping = json.load(f)
+            with open("mapping.csv", "w") as f:
+                #Sort mapping by title
+                mapping = dict(sorted(mapping.items()))
+                for title in mapping:
+                        keys=getAniListID(AOD,list(mapping[title].keys()))
                         for i in range(len(keys)):
                             key=keys[i]
-                            value=list(mappings[title].values())[0]
+                            value=list(mapping[title].values())[0]
                             season=i+1
                             csv.writer(f, delimiter=";").writerow([title, key, value, season])
 
