@@ -68,7 +68,7 @@ def getLocalDate(filename):
         for line in f:
             if line.startswith(filename + " was last updated"):
                 # Get "%Y-%m-%dT%H:%M:%SZ" from line
-                lastUpdated=datetime.datetime.strptime(line.split(" was last updated ")[1].strip(), "%Y-%m-%d %H:%M:%S.%f")
+                lastUpdated=datetime.datetime.strptime(line.split(" was last updated at ")[1].strip(), "%Y-%m-%d %H:%M:%S.%f")
                 found=True
                 break
     if not found:
@@ -118,16 +118,16 @@ def downloadFile(url):
                 for line in lines:
                     if line.startswith(fileName):
                         #Write Datetime to file
-                        f.write(fileName + " was last updated " + str(datetime.datetime.now()) + "\n")
+                        f.write(fileName + " was last updated at " + str(datetime.datetime.now()) + "\n")
                     else:
                         f.write(line)
         else:
             with open("updated.txt", "a") as f:
-                f.write(fileName + " was last updated " + str(datetime.datetime.now()) + "\n")
+                f.write(fileName + " was last updated at " + str(datetime.datetime.now()) + "\n")
     else:
         # Create the file
         with open("updated.txt", "w") as f:
-            f.write(fileName + " was last updated " + str(datetime.datetime.now()) + "\n")
+            f.write(fileName + " was last updated at " + str(datetime.datetime.now()) + "\n")
 
 
 def updateDB():
