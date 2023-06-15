@@ -1,5 +1,5 @@
 # AniListToTVDB
-Scripts to Find the TVDB ID of AniList Titles using XEM and AOD
+Scripts to Find the TVDB ID of AniList Titles using anime-lists and AOD
 ### **Looking for the mapping.csv file? [Click here!](https://raw.githubusercontent.com/noggl/AniListToTVDB/main/mapping.csv)**
 ------------------------
 ## About
