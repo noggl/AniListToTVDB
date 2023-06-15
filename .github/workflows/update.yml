@@ -1,4 +1,4 @@
-name: Update mapping.csv
+name: Update Mapping
 
 on:
   schedule:
