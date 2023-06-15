@@ -39,6 +39,25 @@ def updateLog(strings):
         for string in strings:
             print(string)
             f.write(string + "\n")
+
+def updateREADME():
+    # Replace the Status section of the README with the contents of updated.txt
+    with open("README.md", "r") as f:
+        lines=f.readlines()
+    with open("README.md", "w") as f:
+        for line in lines:
+            if line.startswith("## Status"):
+                break
+            else:
+                f.write(line)
+        f.write("## Status\n")
+        with open("updated.txt", "r") as f2:
+            for line in f2:
+                #if line starts with Added
+                if line.startswith("Added"):
+                    f.write("- " + line)
+                else:
+                    f.write(line+ "\n")
     
 def getLocalDate(filename):
     found=False
@@ -188,7 +207,7 @@ def orderSeasons(mappings):
     seasonedMappings=[]
     for i in range(len(mappings)):
         # Display progress
-        sys.stdout.write("\rOrdering seasons: " + str(i) + "/" + str(len(mappings)))
+        sys.stdout.write("\Putting seasons in order: " + str(i) + "/" + str(len(mappings)))
         #if mappings[i] is not already in seasonedMappings
         if not any(d["id"] == mappings[i]["id"] for d in seasonedMappings):
             seasons=[]
@@ -254,6 +273,7 @@ def main():
         if len(updates) > 0:
             # Send updates to updateLog
             updateLog(updates)
+            updateREADME()
     else:
         print("No changes, exiting")
 
