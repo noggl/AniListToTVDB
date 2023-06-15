@@ -1,52 +1,136 @@
-# Creates CSV from XEM.json
-# CSV is in format Title;AniList ID;TVDB ID/TMDB ID;Season #
-# XEM.json is in format {title: [{AniList ID: TVDB ID}}, with the AniList IDs in order of season number
-
+import datetime
 import json
 import csv
 import os
 import subprocess
 import sys
 
-def updateRepos():
+def getCommitDate(URL):
+    # Parse url for file name, user, and repo
+    githubFile=URL.split("/")[-1]
+    githubRepo=URL.split("/")[-3]
+    githubUser=URL.split("/")[-4]
+    requestURL="https://api.github.com/repos/" + githubUser + "/" + githubRepo + "/commits?path=" + githubFile
+    # Get last updated date from github
+    result = subprocess.check_output("curl -s " + requestURL, shell=True)
+    # convert result to dictionary
+    result = json.loads(result)
+    date=result[0]["commit"]["author"]["date"]
+    # Convert date to datetime object
+    lastUpdated=datetime.datetime.strptime(date, "%Y-%m-%dT%H:%M:%SZ")
+    return lastUpdated
+
+def updateLog(strings):
+    # Delete all lines after "Updates:"
+    with open("updated.txt", "r") as f:
+        lines=f.readlines()
+    with open("updated.txt", "w") as f:
+        for line in lines:
+            if line.startswith("Recent Updates:"):
+                break
+            else:
+                #if line isn't empty or just a newline
+                if line.strip():
+                    f.write(line)
+    # Write strings to file
+    with open("updated.txt", "a") as f:
+        print("\nUpdates:")
+        f.write("\nRecent Updates:\n")
+        for string in strings:
+            print(string)
+            f.write(string + "\n")
+    
+def getLocalDate(filename):
+    found=False
+    if not os.path.exists("updated.txt"):
+        return False
+    with open("updated.txt", "r") as f:
+        # Get date from updated.txt. Find line that starts with "anime-list-full.json was last updated"
+        for line in f:
+            if line.startswith(filename + " was last updated"):
+                # Get "%Y-%m-%dT%H:%M:%SZ" from line
+                lastUpdated=datetime.datetime.strptime(line.split(" was last updated ")[1].strip(), "%Y-%m-%d %H:%M:%S.%f")
+                found=True
+                break
+    if not found:
+        return False
+    else:
+        return lastUpdated
+
+def refreshFile(url):
     changes=False
-    # Update anime-lists repo
-    if not os.path.exists("anime-lists"):
-        # Clone anime-lists repo
-        os.system("git clone https://github.com/Fribb/anime-lists.git")
+    filename=url.split("/")[-1]
+    if not os.path.exists(filename):
+        print(filename + " not found. Downloading...")
+        changes=True
+        # Download the file
+        downloadFile(url)
     else:
-        # Check for and pull latest changes
-        result = subprocess.check_output("cd anime-lists && git pull", shell=True)
-        # Check if already up to date
-        if 'Already up to date' not in str(result):
-            print("Changes in anime-lists")
+        localDate=getLocalDate(filename)
+        # Get date from github
+        githubDate=getCommitDate(url)
+        # Compare dates
+        if localDate == False or localDate < githubDate:
+            print(filename + " is out of date. Downloading...")
             changes=True
+            # Download the file
+            downloadFile(url)
         else:
-            print("No changes in anime-lists")
-        
-    # Update AOD Repo
-    if not os.path.exists("anime-offline-database"):
-        # Clone AOD repo
-        os.system("git clone https://github.com/manami-project/anime-offline-database.git")
+            print("No changes to " + filename)
+    return changes
+
+def downloadFile(url):
+    #parse url for file name
+    fileName=url.split("/")[-1]
+    os.system("curl -s "+ url + " -o " + fileName)
+    # Write current date to updated.txt
+    if os.path.exists("updated.txt"):
+        # If filename is already in the doc, update it, otherwise append it
+        found=False
+        with open("updated.txt", "r") as f:
+            for line in f:
+                if line.startswith(fileName):
+                    found=True
+                    break
+        if found:
+            with open("updated.txt", "r") as f:
+                lines=f.readlines()
+            with open("updated.txt", "w") as f:
+                for line in lines:
+                    if line.startswith(fileName):
+                        #Write Datetime to file
+                        f.write(fileName + " was last updated " + str(datetime.datetime.now()) + "\n")
+                    else:
+                        f.write(line)
+        else:
+            with open("updated.txt", "a") as f:
+                f.write(fileName + " was last updated " + str(datetime.datetime.now()) + "\n")
     else:
-        # Pull latest changes
-        result = subprocess.check_output("cd anime-offline-database && git pull", shell=True)
-        # Check if val includes "Already up to date"
-        if 'Already up to date' not in str(result):
-            print("Changes in AOD")
-            changes=True
-        else:
-            print("No changes in AOD")
+        # Create the file
+        with open("updated.txt", "w") as f:
+            f.write(fileName + " was last updated " + str(datetime.datetime.now()) + "\n")
+
+
+def updateDB():
+    changes=False
+    # Update anime-list-full.json
+    url="https://raw.githubusercontent.com/Fribb/anime-lists/master/anime-list-full.json"
+    if refreshFile(url):
+        changes=True
+        # Update anime-offline-database.json"
+    url="https://raw.githubusercontent.com/manami-project/anime-offline-database/master/anime-offline-database.json"
+    if refreshFile(url):
+        changes=True
     return changes
 
 def loadAOD():
-    with open("anime-offline-database/anime-offline-database.json", "r") as f:
+    with open("anime-offline-database.json", "r") as f:
         aod = json.load(f).get("data")
     print(str(len(aod)) + " entries in AOD")
     return aod
 
 def loadAnimeList():
-    with open("anime-lists/anime-list-full.json", "r") as f:
+    with open("anime-list-full.json", "r") as f:
         anime_list = json.load(f)
     print(str(len(anime_list)) + " entries in anime-list")
     return anime_list
@@ -145,7 +229,7 @@ def orderSeasons(mappings):
 
 def main():
     # if there have been changes or if argument is given
-    if updateRepos() or len(sys.argv) > 1:
+    if updateDB() or len(sys.argv) > 1:
         print("\nBuilding mapping!")
         mappings=createMapping()
         seasonedMappings=orderSeasons(mappings)
@@ -156,16 +240,20 @@ def main():
             for row in reader:
                 oldMapping.append(row)
         open("mapping.csv", "w").close()
-        print("\nChanges:")
+        updates=[]
         for show in seasonedMappings:
             with open("mapping.csv", "a") as f:
                 csv.writer(f, delimiter=";").writerow([show["title"], show["anilist_id"], show["id"], show["animeSeason"]])
                 # If show is not in oldMapping
                 if not any(d[1] == str(show["anilist_id"]) for d in oldMapping):
                     if show["type"] == "TV":
-                        print("Added " + show["title"] + " (" + str(show["anilist_id"]) + ") Season " + str(show["animeSeason"]))
+                        updates.append("Added " + show["title"] + " (" + str(show["anilist_id"]) + ") Season " + str(show["animeSeason"]))
                     elif show["type"] == "MOVIE":
-                        print("Added " + show["title"] + " (" + str(show["anilist_id"]) + ")")
+                        updates.append("Added " + show["title"] + " (" + str(show["anilist_id"]) + ")")
+        # If there are updates
+        if len(updates) > 0:
+            # Send updates to updateLog
+            updateLog(updates)
     else:
         print("No changes, exiting")
 
