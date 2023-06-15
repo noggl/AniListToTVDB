@@ -118,16 +118,16 @@ def downloadFile(url):
                 for line in lines:
                     if line.startswith(fileName):
                         #Write Datetime to file
-                        f.write(fileName + " was last updated at " + str(datetime.datetime.now()) + "\n")
+                        f.write(fileName + " was last updated at " + str(datetime.datetime.utcnow()) + "\n")
                     else:
                         f.write(line)
         else:
             with open("updated.txt", "a") as f:
-                f.write(fileName + " was last updated at " + str(datetime.datetime.now()) + "\n")
+                f.write(fileName + " was last updated at " + str(datetime.datetime.utcnow()) + "\n")
     else:
         # Create the file
         with open("updated.txt", "w") as f:
-            f.write(fileName + " was last updated at " + str(datetime.datetime.now()) + "\n")
+            f.write(fileName + " was last updated at " + str(datetime.datetime.utcnow()) + "\n")
 
 
 def updateDB():
