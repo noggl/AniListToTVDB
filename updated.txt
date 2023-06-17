@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-06-14 19:56:43.502652
-anime-offline-database.json was last updated at 2023-06-14 21:05:37.992682
+anime-offline-database.json was last updated at 2023-06-17 11:34:56.696678
 
 Recent Updates:
 Initial mapping.csv generation
