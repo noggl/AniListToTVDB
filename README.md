@@ -16,11 +16,12 @@ Both of these resources are .json files housed in the project's github repo, so 
 Run the script with `python3 createCSV.py`. This will clone/update the github repos and create the `mappings.csv` to be used in a program like [AniPlanrr](https://github.com/noggl/AniPlanrr).
 
 ## Status
-anime-list-full.json was last updated at 2023-06-14 19:56:43.502652
+anime-list-full.json was last updated at 2023-06-21 11:34:33.967394
 
-anime-offline-database.json was last updated at 2023-06-15 00:54:45.552845
+anime-offline-database.json was last updated at 2023-06-20 11:34:42.634158
 
 
 
 Recent Updates:
-- Initial Dataset version, so no "updates" yet
+
+- Added Black Clover: Mahou Tei no Ken (131680)
