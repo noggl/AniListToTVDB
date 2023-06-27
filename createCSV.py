@@ -275,10 +275,10 @@ def createCSV():
 
 def main():
     # if there have been changes or if argument is given
-    if updateDB() or (len(sys.argv) > 1 and sys.argv[1] == "f"):
+    if updateDB() or (len(sys.argv) > 1 and sys.argv[1] == "-f"):
         createCSV()
         #if argument is g for github action
-        if len(sys.argv) > 1 and sys.argv[1] == "g":
+        if len(sys.argv) > 1 and sys.argv[1] == "-g":
             # Commit and push
             print("Committing and pushing")
             os.system("git add ./*")

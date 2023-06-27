@@ -15,6 +15,8 @@ Both of these resources are .json files housed in the project's github repo, so 
 
 Run the script with `python3 createCSV.py`. This will clone/update the github repos and create the `mappings.csv` to be used in a program like [AniPlanrr](https://github.com/noggl/AniPlanrr).
 
+There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
+
 ## Status
 anime-list-full.json was last updated at 2023-06-21 11:34:33.967394
 
