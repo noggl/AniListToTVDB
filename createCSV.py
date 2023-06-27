@@ -246,34 +246,44 @@ def orderSeasons(mappings):
     # Clear CSV
     return seasonedMappings
 
+def createCSV():
+    print("\nBuilding mapping!")
+    mappings=createMapping()
+    seasonedMappings=orderSeasons(mappings)
+    # Load old mapping
+    oldMapping=[]
+    with open("mapping.csv", "r") as f:
+        reader = csv.reader(f, delimiter=";")
+        for row in reader:
+            oldMapping.append(row)
+    open("mapping.csv", "w").close()
+    updates=[]
+    for show in seasonedMappings:
+        with open("mapping.csv", "a") as f:
+            csv.writer(f, delimiter=";").writerow([show["title"], show["anilist_id"], show["id"], show["animeSeason"]])
+            # If show is not in oldMapping
+            if not any(d[1] == str(show["anilist_id"]) for d in oldMapping):
+                if show["type"] == "TV":
+                    updates.append("Added " + show["title"] + " (" + str(show["anilist_id"]) + ") Season " + str(show["animeSeason"]))
+                elif show["type"] == "MOVIE":
+                    updates.append("Added " + show["title"] + " (" + str(show["anilist_id"]) + ")")
+    # If there are updates
+    if len(updates) > 0:
+        # Send updates to updateLog
+        updateLog(updates)
+        updateREADME()
+
 def main():
     # if there have been changes or if argument is given
-    if updateDB() or len(sys.argv) > 1:
-        print("\nBuilding mapping!")
-        mappings=createMapping()
-        seasonedMappings=orderSeasons(mappings)
-        # Load old mapping
-        oldMapping=[]
-        with open("mapping.csv", "r") as f:
-            reader = csv.reader(f, delimiter=";")
-            for row in reader:
-                oldMapping.append(row)
-        open("mapping.csv", "w").close()
-        updates=[]
-        for show in seasonedMappings:
-            with open("mapping.csv", "a") as f:
-                csv.writer(f, delimiter=";").writerow([show["title"], show["anilist_id"], show["id"], show["animeSeason"]])
-                # If show is not in oldMapping
-                if not any(d[1] == str(show["anilist_id"]) for d in oldMapping):
-                    if show["type"] == "TV":
-                        updates.append("Added " + show["title"] + " (" + str(show["anilist_id"]) + ") Season " + str(show["animeSeason"]))
-                    elif show["type"] == "MOVIE":
-                        updates.append("Added " + show["title"] + " (" + str(show["anilist_id"]) + ")")
-        # If there are updates
-        if len(updates) > 0:
-            # Send updates to updateLog
-            updateLog(updates)
-            updateREADME()
+    if updateDB() or (len(sys.argv) > 1 and sys.argv[1] == "f"):
+        createCSV()
+        #if argument is g for github action
+        if len(sys.argv) > 1 and sys.argv[1] == "g":
+            # Commit and push
+            print("Committing and pushing")
+            os.system("git add ./*")
+            os.system('git commit -m "Automatic Update at $(date)"')
+            os.system("git push")
     else:
         print("No changes, exiting")
 
