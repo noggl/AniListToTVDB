@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-06-27 18:12:46.253094
-anime-offline-database.json was last updated at 2023-06-29 11:35:13.480572
+anime-offline-database.json was last updated at 2023-07-01 11:34:55.016923
 
 Recent Updates:
 Added Black Clover: Mahou Tei no Ken (131680)
