@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-07-05 11:35:44.393856
-anime-offline-database.json was last updated at 2023-07-01 11:34:55.016923
+anime-offline-database.json was last updated at 2023-07-09 11:34:45.034048
 
 Recent Updates:
 Added Ayaka (155982) Season 1
