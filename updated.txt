@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-07-12 11:35:20.625654
-anime-offline-database.json was last updated at 2023-07-12 11:35:24.083547
+anime-offline-database.json was last updated at 2023-07-13 11:35:16.848251
 
 Recent Updates:
 Added Mononogatari (163205) Season 2
