@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-07-19 11:34:42.623728
-anime-offline-database.json was last updated at 2023-07-13 11:35:16.848251
+anime-offline-database.json was last updated at 2023-07-22 11:34:52.742263
 
 Recent Updates:
 Added Accel World: Infinite∞Burst (21404)
