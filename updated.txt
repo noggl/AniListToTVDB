@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-08-02 11:34:52.440939
-anime-offline-database.json was last updated at 2023-08-03 11:34:57.957279
+anime-offline-database.json was last updated at 2023-08-04 11:34:47.604038
 
 Recent Updates:
 Added Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) (153554) Season 1
