@@ -20,18 +20,14 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2023-08-09 11:35:05.038533
+anime-list-full.json was last updated at 2023-08-23 11:34:57.833391
 
-anime-offline-database.json was last updated at 2023-08-04 11:34:47.604038
+anime-offline-database.json was last updated at 2023-08-23 11:34:59.435684
 
 
 
 Recent Updates:
 
-- Added Chinkoroheibei Tamatebako (12803)
-- Added Dekobou no Jidousha Ryokou (6838)
-- Added Detective Conan Movie 16: The Eleventh Striker (12117)
-- Added Ginga Tetsudou no Yoru (1441)
-- Added Gulliver Funtouki (6847)
-- Added Kaitei no Boukun (6851)
-- Added Maabou no Daikyousou (6840)
+- Added AI no Idenshi (158530) Season 1
+- Added Genjitsu no Yohane: Sunshine in the Mirror (151513) Season 1
+- Added Pokemon: Mezase Pokemon Master (158870) Season 1
