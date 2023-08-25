@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-08-23 11:34:57.833391
-anime-offline-database.json was last updated at 2023-08-23 11:34:59.435684
+anime-offline-database.json was last updated at 2023-08-25 11:34:56.649611
 
 Recent Updates:
 Added AI no Idenshi (158530) Season 1
