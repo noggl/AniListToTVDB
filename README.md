@@ -20,14 +20,27 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2023-08-23 11:34:57.833391
+anime-list-full.json was last updated at 2023-08-30 11:34:49.990918
 
-anime-offline-database.json was last updated at 2023-08-23 11:34:59.435684
+anime-offline-database.json was last updated at 2023-08-30 11:34:51.419192
 
 
 
 Recent Updates:
 
-- Added AI no Idenshi (158530) Season 1
-- Added Genjitsu no Yohane: Sunshine in the Mirror (151513) Season 1
-- Added Pokemon: Mezase Pokemon Master (158870) Season 1
+- Added Akage no Anne: Green Gables e no Michi (8950)
+- Added Bakumatsu no Spasibo (8092)
+- Added Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train (158997)
+- Added Detective Conan: The Scarlet Alibi (131770)
+- Added Gegege no Kitarou: Obake Nighter (8156)
+- Added Hug tto! Precure (100661) Season 1
+- Added Inu to Neko Docchi mo Katteru to Mainichi Tanoshii (116700) Season 1
+- Added Ninja Batman (100248)
+- Added Ryouma! The Prince of Tennis Shinsei Movie: Tennis no Ouji-sama (113254)
+- Added Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai (161474)
+- Added Tennis no Oujisama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri (814)
+- Added Time Bokan (3915) Season 1
+- Added Time Bokan Series: Gyakuten Ippatsuman (8011) Season 1
+- Added Time Bokan Series: Yatterman (3008) Season 1
+- Added Time Bokan Series: Zenderman (6889) Season 1
+- Added X/1999 (155)
