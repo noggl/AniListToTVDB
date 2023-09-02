@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-08-30 11:34:49.990918
-anime-offline-database.json was last updated at 2023-09-01 11:35:09.983517
+anime-offline-database.json was last updated at 2023-09-02 11:35:01.844624
 
 Recent Updates:
 Added Akage no Anne: Green Gables e no Michi (8950)
