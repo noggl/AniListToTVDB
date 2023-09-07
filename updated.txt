@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-09-06 11:34:54.407236
-anime-offline-database.json was last updated at 2023-09-06 11:34:57.685847
+anime-offline-database.json was last updated at 2023-09-07 11:34:58.603771
 
 Recent Updates:
 Added Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku (113345)
