@@ -20,22 +20,25 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2023-09-06 11:34:54.407236
+anime-list-full.json was last updated at 2023-09-13 11:35:06.789644
 
-anime-offline-database.json was last updated at 2023-09-06 11:34:57.685847
+anime-offline-database.json was last updated at 2023-09-12 11:34:56.346196
 
 
 
 Recent Updates:
 
-- Added Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku (113345)
-- Added GeGeGe no Kitarou (1968) (8149)
-- Added Gegege no Kitarou (1985 Movie) (8152)
-- Added Gegege no Kitarou: Chisougan (8150)
-- Added Gegege no Kitarou: Youkai Daisensou (8153)
-- Added Hakubo (98784)
-- Added Happy Birthday: Inochi Kagayaku Toki (9931)
-- Added Kakushigoto Movie (127227)
-- Added Kyochuu Rettou Movie (107880)
-- Added Ta ga Tame no Alchemist (107864)
-- Added Wakaokami wa Shougakusei! Movie (101478)
+- Added Animal Yokochou (280) Season 1
+- Added Hagane Orchestra (97608) Season 1
+- Added Kagami no Kojou (145739)
+- Added Kamiarizuki no Kodomo (118390)
+- Added Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On. (1379)
+- Added Kobutori (1929) (5875)
+- Added Laidbackers (104721)
+- Added Manga Revue Haru (107670)
+- Added Okusama wa Mahou Shoujo (614) Season 1
+- Added Onegai My Melody (4114) Season 2
+- Added Patalliro Saiyuuki! (1035) Season 1
+- Added Pokemon: Meloetta no Kirakira Recital (13799)
+- Added Sengoku Choujuu Giga: Kou (116053) Season 2
+- Added Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning (2282) Season 1
