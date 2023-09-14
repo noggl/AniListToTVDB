@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-09-13 11:35:06.789644
-anime-offline-database.json was last updated at 2023-09-12 11:34:56.346196
+anime-offline-database.json was last updated at 2023-09-14 11:35:00.205612
 
 Recent Updates:
 Added Animal Yokochou (280) Season 1
