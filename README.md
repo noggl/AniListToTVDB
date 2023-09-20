@@ -20,25 +20,61 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2023-09-13 11:35:06.789644
+anime-list-full.json was last updated at 2023-09-20 11:34:54.661594
 
-anime-offline-database.json was last updated at 2023-09-12 11:34:56.346196
+anime-offline-database.json was last updated at 2023-09-15 11:34:49.936629
 
 
 
 Recent Updates:
 
-- Added Animal Yokochou (280) Season 1
-- Added Hagane Orchestra (97608) Season 1
-- Added Kagami no Kojou (145739)
-- Added Kamiarizuki no Kodomo (118390)
-- Added Kino no Tabi: The Beautiful World - Nanika wo Suru Tame ni - Life Goes On. (1379)
-- Added Kobutori (1929) (5875)
-- Added Laidbackers (104721)
-- Added Manga Revue Haru (107670)
-- Added Okusama wa Mahou Shoujo (614) Season 1
-- Added Onegai My Melody (4114) Season 2
-- Added Patalliro Saiyuuki! (1035) Season 1
-- Added Pokemon: Meloetta no Kirakira Recital (13799)
-- Added Sengoku Choujuu Giga: Kou (116053) Season 2
-- Added Tezuka Osamu no Kyuuyaku Seisho Monogatari: In the Beginning (2282) Season 1
+- Added Akuma-kun (8194) Season 1
+- Added Aqua Kids (108750) Season 1
+- Added Bouken Yuuki Pluster World (3637) Season 1
+- Added Croket! (5071) Season 1
+- Added Dondon Dommel to Ron (2814) Season 1
+- Added Dororon Enma-kun (1337) Season 1
+- Added Eightman (5052) Season 1
+- Added Flanders no Inu, Boku no Patrasche (2624) Season 1
+- Added Fortune Quest L (3185) Season 1
+- Added Gu-Gu Ganmo (3020) Season 1
+- Added Hana no Ko Lunlun (2230) Season 1
+- Added Himitsu no Akko-chan (3285) Season 1
+- Added Himitsu no Akko-chan (3838) Season 2
+- Added Ie Naki Ko (2829) Season 2
+- Added Itoshi no Muco (21228) Season 1
+- Added Jetter Mars (6087) Season 1
+- Added Karakuri Kiden: Hiwou Senki (3935) Season 1
+- Added Kasumin (2738) Season 2
+- Added Kick no Oni (3870) Season 1
+- Added Madou King Granzort (2818) Season 1
+- Added Magnerobo Ga-Keen (3932) Season 1
+- Added Maken Liner 0011 Henshin Seyo! (11269)
+- Added Mirai Shounen Conan (Movie) (7308)
+- Added Monster Strike the Movie: Lucifer - Zetsubou no Yoake (116962)
+- Added Mori no Densetsu: Dai Ni Gakushou (103323)
+- Added Mura Matsuri (6769)
+- Added Nine: Original-ban (9242)
+- Added Ochame na Futago: Claire Gakuin Monogatari (2570) Season 1
+- Added Oishinbo (1093) Season 1
+- Added Ookami Shounen Ken (17521) Season 1
+- Added Pokemon (21356) Season 9
+- Added Pokemon (97634) Season 10
+- Added Pokemon: Pikachu to Eievui Friends (16678)
+- Added Pokemon: Pikachu to Pokemon Ongakutai (21270)
+- Added Pokemon: Pikachu, Kore Nan no Kagi? (21271)
+- Added Pokemon: Pikapika Hoshizora Camp (4795)
+- Added Popolocrois Monogatari (4191) Season 1
+- Added Popolocrois Monogatari (592) Season 2
+- Added Rainbow Sentai Robin (9438) Season 1
+- Added Sarutobi Ecchan (6311) Season 1
+- Added Shiawase Sou no Okojo-san (2934) Season 1
+- Added Super Doll Licca-chan (2766) Season 1
+- Added Takarajima (2618) Season 1
+- Added Tenkuu Senki Shurato (2113) Season 1
+- Added The Kabocha Wine (3159) Season 1
+- Added Tongari Boushi no Memole (3754) Season 1
+- Added Uchuusen Sagittarius (3317) Season 1
+- Added Urayasu Tekkin Kazoku (2716) Season 1
+- Added Vampiyan Kids (3290) Season 1
+- Added Watashi no Ashinaga Ojisan (1375) Season 1
