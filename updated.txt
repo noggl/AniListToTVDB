@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-09-20 11:34:54.661594
-anime-offline-database.json was last updated at 2023-09-15 11:34:49.936629
+anime-offline-database.json was last updated at 2023-09-21 11:34:51.543305
 
 Recent Updates:
 Added Akuma-kun (8194) Season 1
