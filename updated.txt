@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-09-27 11:35:08.543749
-anime-offline-database.json was last updated at 2023-09-27 11:35:10.410883
+anime-offline-database.json was last updated at 2023-09-28 11:34:50.846335
 
 Recent Updates:
 Added AWOL (12951) Season 1
