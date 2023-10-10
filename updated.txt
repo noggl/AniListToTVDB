@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-10-04 11:35:10.474597
-anime-offline-database.json was last updated at 2023-10-05 11:34:54.683865
+anime-offline-database.json was last updated at 2023-10-10 11:34:59.926666
 
 Recent Updates:
 Added Alice to Therese no Maboroshi Koujou (136149)
