@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-10-18 11:35:06.738933
-anime-offline-database.json was last updated at 2023-10-13 11:35:07.814040
+anime-offline-database.json was last updated at 2023-10-20 11:35:00.721717
 
 Recent Updates:
 Added B-Project: Kodou*Ambitious (126316) Season 3
