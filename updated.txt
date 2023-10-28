@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-10-25 11:34:50.348509
-anime-offline-database.json was last updated at 2023-10-24 11:34:53.638050
+anime-offline-database.json was last updated at 2023-10-28 11:34:52.548456
 
 Recent Updates:
 Added Interstella5555: The 5tory of The 5ecret 5tar 5ystem (731)
