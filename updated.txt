@@ -1,7 +1,7 @@
-anime-list-full.json was last updated at 2023-10-25 11:34:50.348509
-anime-offline-database.json was last updated at 2023-10-28 11:34:52.548456
+anime-list-full.json was last updated at 2023-11-01 11:34:55.443423
+anime-offline-database.json was last updated at 2023-11-01 11:34:57.885779
 
 Recent Updates:
-Added Interstella5555: The 5tory of The 5ecret 5tar 5ystem (731)
-Added Ranma 1/2 (210) Season 1
-Added Shinobanai! Crypto Ninja Sakuya (170041) Season 1
+Added Megaton-kyuu Musashi (142541) Season 2
+Added Yami Shibai (142826) Season 10
+Added Yami Shibai (166829) Season 11

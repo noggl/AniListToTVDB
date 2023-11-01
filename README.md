@@ -20,14 +20,14 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2023-10-25 11:34:50.348509
+anime-list-full.json was last updated at 2023-11-01 11:34:55.443423
 
-anime-offline-database.json was last updated at 2023-10-24 11:34:53.638050
+anime-offline-database.json was last updated at 2023-11-01 11:34:57.885779
 
 
 
 Recent Updates:
 
-- Added Interstella5555: The 5tory of The 5ecret 5tar 5ystem (731)
-- Added Ranma 1/2 (210) Season 1
-- Added Shinobanai! Crypto Ninja Sakuya (170041) Season 1
+- Added Megaton-kyuu Musashi (142541) Season 2
+- Added Yami Shibai (142826) Season 10
+- Added Yami Shibai (166829) Season 11
