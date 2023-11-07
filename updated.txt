@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-11-01 11:34:55.443423
-anime-offline-database.json was last updated at 2023-11-02 11:34:47.944186
+anime-offline-database.json was last updated at 2023-11-07 11:34:56.549959
 
 Recent Updates:
 Added Megaton-kyuu Musashi (142541) Season 2
