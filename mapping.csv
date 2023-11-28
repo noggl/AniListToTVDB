@@ -320,8 +320,8 @@ Bakemonogatari;5081;102261;1
 Bakemonogatari;11597;102261;2
 Bakemonogatari;15689;102261;3
 Bakemonogatari;17074;102261;4
-Bakemonogatari;20918;102261;5
-Bakemonogatari;20593;102261;6
+Bakemonogatari;20593;102261;5
+Bakemonogatari;20918;102261;6
 Bakemonogatari;21262;102261;7
 Bakemonogatari;21745;102261;8
 Bakugan Battle Brawlers;2156;82832;1
@@ -791,9 +791,9 @@ Cross Game;5941;87901;1
 Crusher Joe;2722;76729;1
 Crystal Blaze;3840;82223;1
 Cue!;125682;411827;1
-Cutey Honey;1661;81462;1
 Cutey Honey F;1853;258511;1
 Cuticle Tantei Inaba;15109;264525;1
+Cutie Honey;1661;81462;1
 Cutie Honey Universe;100814;343363;1
 Cybersix;2383;77193;1
 Cyborg 009;6872;314090;1
@@ -908,24 +908,18 @@ Densetsu Kyojin Ideon;930;103791;1
 Densetsu Kyojin Ideon: Hatsudou-hen;2761;67851;1
 Densetsu Kyojin Ideon: Sesshoku-hen;2760;67841;1
 Densetsu no Yuusha no Densetsu;8086;171741;1
-Detective Conan;235;72454;1
-Detective Conan;12185;72454;2
-Detective Conan Movie 01: The Timed Skyscraper;779;21422;1
 Detective Conan Movie 02: The Fourteenth Target;780;21452;1
 Detective Conan Movie 03: The Last Wizard of the Century;781;28808;1
 Detective Conan Movie 04: Captured in Her Eyes;1363;20677;1
 Detective Conan Movie 05: Countdown to Heaven;1364;32022;1
 Detective Conan Movie 06: The Phantom of Baker Street;1365;26662;1
-Detective Conan Movie 07: Crossroad in the Ancient Capital;1366;39202;1
 Detective Conan Movie 08: Magician of the Silver Sky;1367;39203;1
-Detective Conan Movie 09: Strategy Above the Depths;1505;39204;1
 Detective Conan Movie 10: Requiem of the Detectives;1506;39205;1
 Detective Conan Movie 11: Jolly Roger in the Deep Azure;2171;39206;1
 Detective Conan Movie 12: Full Score of Fear;4447;39207;1
 Detective Conan Movie 13: The Raven Chaser;5460;28764;1
 Detective Conan Movie 14: The Lost Ship in the Sky;6467;97375;1
 Detective Conan Movie 15: Quarter of Silence;9963;77617;1
-Detective Conan Movie 16: The Eleventh Striker;12117;122583;1
 Detective Conan Movie 17: Private Eye in the Distant Sea;14735;228805;1
 Detective Conan Movie 18: The Sniper from Another Dimension;20546;257512;1
 Detective Conan Movie 19: The Hellfire Sunflowers;21646;316873;1
@@ -933,10 +927,8 @@ Detective Conan Movie 20: The Darkest Nightmare;21470;374856;1
 Detective Conan Movie 21: The Crimson Love Letter;98222;438058;1
 Detective Conan Movie 22: Zero the Enforcer;100653;493006;1
 Detective Conan Movie 23: The Fist of Blue Sapphire;106206;566555;1
-Detective Conan Movie 24: The Scarlet Bullet;113653;662638;1
 Detective Conan Movie 25: Halloween no Hanayome;142219;903939;1
 Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train;158997;1058906;1
-Detective Conan: The Scarlet Alibi;131770;801293;1
 Deva Zan;10639;866576;1
 Devidol!;104214;353242;1
 Devil May Cry;1726;80224;1
@@ -1103,8 +1095,8 @@ Druaga no Tou: The Aegis of Uruk;4726;81744;2
 Dual! Parallel Lun-Lun Monogatari;992;79996;1
 Duel Masters;1685;261667;1
 Duel Masters;4443;261667;2
-Duel Masters;10526;261667;3
-Duel Masters;4444;261667;4
+Duel Masters;4444;261667;3
+Duel Masters;10526;261667;4
 Duel Masters;10527;261667;5
 Duel Masters;10528;261667;6
 Duel Masters;10524;261667;7
@@ -1176,10 +1168,9 @@ Esper Mami: Hoshizora no Dancing Doll;9880;117349;1
 Estab-Life: Great Escape;143289;414907;1
 Eternal Boys;146438;423563;1
 Etotama;20930;291286;1
-Evangelion: 1.0 You Are (Not) Alone;2759;15137;1
+Evangelion Movie 1: Jo;2759;15137;1
 Evangelion: 2.0 You Can (Not) Advance;3784;22843;1
 Evangelion: 3.0 You Can (Not) Redo;3785;75629;1
-Evangelion: 3.0+1.0 Thrice Upon a Time;3786;283566;1
 Eve no Jikan (Movie);7465;234284;1
 Evil or Live;100226;335316;1
 Ex-Arm;106503;382958;1
@@ -2954,7 +2945,15 @@ Meiji Tokyo Renka;99000;355576;1
 Meiken Jolie;3836;78614;1
 Meiken Lassie;3425;374678;1
 Meikyuu Black Company;120608;388574;1
+Meitantei Conan;235;72454;1
+Meitantei Conan;12185;72454;2
+Meitantei Conan Movie 01: Tokei Jikake no Matenrou;779;21422;1
+Meitantei Conan Movie 07: Meikyuu no Crossroad;1366;39202;1
+Meitantei Conan Movie 09: Suihei Senjou no Strategy;1505;39204;1
+Meitantei Conan Movie 16: 11-ninme no Striker;12117;122583;1
+Meitantei Conan Movie 24: Hiiro no Dangan;113653;662638;1
 Meitantei Conan: Hannin no Hanzawa-san;140005;416846;1
+Meitantei Conan: Hiiro no Fuzai Shoumei;131770;801293;1
 Meitantei Conan: Zero no Tea Time;140002;416843;1
 Meitantei Holmes;1972;73082;1
 Mekakucity Actors;20541;278199;1
@@ -3206,7 +3205,6 @@ Neo Angelique Abyss;4662;84138;2
 Neo Ranga;1163;89771;1
 Neon Genesis Evangelion;30;70350;1
 Neon Genesis Evangelion: Death & Rebirth;31;21832;1
-Neon Genesis Evangelion: The End of Evangelion;32;18491;1
 Nerawareta Gakuen;14293;135915;1
 Nerima Daikon Brothers;1655;122291;1
 Net Ghost Pipopa;4051;227751;1
@@ -4061,6 +4059,7 @@ Shin Chou Kyou Ryo: Condor Hero;960;79658;2
 Shin Chou Kyou Ryo: Condor Hero;5854;79658;3
 Shin Chuuka Ichiban!;107666;370891;1
 Shin Chuuka Ichiban!;114304;370891;2
+Shin Evangelion Movie: ||;3786;283566;1
 Shin Hakkenden;1823;264526;1
 Shin Ikkitousen;136303;405904;1
 Shin Kidou Senki Gundam Wing;90;79327;1
@@ -4112,6 +4111,7 @@ Shinrei Tantei Yakumo;7662;193841;1
 Shinreigari;2596;80733;1
 Shinryaku! Ika Musume;8557;195721;1
 Shinryaku! Ika Musume;10378;195721;2
+Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni;32;18491;1
 Shinseikiden Mars;1712;215301;1
 Shinsekai yori;13125;262838;1
 Shinsetsu Kachikachi Yama;10757;442032;1
@@ -4711,7 +4711,7 @@ Tsugumomo;97625;321532;1
 Tsugumomo;108266;321532;2
 Tsuki ga Kirei;98202;325197;1
 Tsuki ga Michibiku Isekai Douchuu;125206;390832;1
-Tsuki no Miya no Oujo-sama;15139;345472;1
+Tsuki no Miya no Oujosama;15139;345472;1
 Tsuki to Laika to Nosferatu;131019;401855;1
 Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary;648;107521;1
 Tsukipro The Animation;97904;333239;1
