@@ -1,7 +1,5 @@
-anime-list-full.json was last updated at 2023-11-24 11:35:03.360194
-anime-offline-database.json was last updated at 2023-11-28 11:35:09.373962
+anime-list-full.json was last updated at 2023-11-29 11:35:03.292703
+anime-offline-database.json was last updated at 2023-11-29 11:35:06.610255
 
 Recent Updates:
-Added Megaton-kyuu Musashi (142541) Season 2
-Added Yami Shibai (142826) Season 10
-Added Yami Shibai (166829) Season 11
+Added Bakemonogatari (100815) Season 9

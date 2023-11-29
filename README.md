@@ -20,14 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2023-11-01 11:34:55.443423
+anime-list-full.json was last updated at 2023-11-29 11:35:03.292703
 
-anime-offline-database.json was last updated at 2023-11-01 11:34:57.885779
+anime-offline-database.json was last updated at 2023-11-29 11:35:06.610255
 
 
 
 Recent Updates:
 
-- Added Megaton-kyuu Musashi (142541) Season 2
-- Added Yami Shibai (142826) Season 10
-- Added Yami Shibai (166829) Season 11
+- Added Bakemonogatari (100815) Season 9
