@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-11-29 11:35:03.292703
-anime-offline-database.json was last updated at 2023-11-30 11:34:59.513320
+anime-offline-database.json was last updated at 2023-12-04 11:35:06.629479
 
 Recent Updates:
 Added Bakemonogatari (100815) Season 9
