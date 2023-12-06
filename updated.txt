@@ -1,5 +1,6 @@
-anime-list-full.json was last updated at 2023-11-29 11:35:03.292703
-anime-offline-database.json was last updated at 2023-12-05 11:35:22.660045
+anime-list-full.json was last updated at 2023-12-06 11:35:27.051498
+anime-offline-database.json was last updated at 2023-12-06 11:35:29.661648
 
 Recent Updates:
-Added Bakemonogatari (100815) Season 9
+Added Hibike! Euphonium (109731) Season 3
+Added Mahouka Koukou no Rettousei (143271) Season 3
