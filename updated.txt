@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-12-13 11:35:01.744254
-anime-offline-database.json was last updated at 2023-12-15 11:35:16.182548
+anime-offline-database.json was last updated at 2023-12-18 11:35:21.373824
 
 Recent Updates:
 Added Hibike! Euphonium (109731) Season 3
