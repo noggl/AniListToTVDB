@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2023-12-27 11:34:56.809128
-anime-offline-database.json was last updated at 2023-12-27 11:34:59.604459
+anime-offline-database.json was last updated at 2023-12-29 11:34:44.277928
 
 Recent Updates:
 Added 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii (167087) Season 1
