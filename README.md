@@ -20,24 +20,19 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-01-03 11:34:54.241292
+anime-list-full.json was last updated at 2024-01-10 11:35:05.082652
 
-anime-offline-database.json was last updated at 2023-12-29 11:34:44.277928
+anime-offline-database.json was last updated at 2024-01-10 11:35:06.913024
 
 
 
 Recent Updates:
 
-- Added Dr. Stone (172019) Season 5
-- Added Gegege no Kitarou: Jigoku-hen (8158) Season 1
-- Added Ginga Hyouryuu Vifam (2987) Season 1
-- Added Heart Cocktail (103376) Season 1
-- Added Ooyukiumi no Kaina: Hoshi no Kenja (159886)
-- Added Princess Sara (2547) Season 1
-- Added Sasurai no Shoujo Nell (3877) Season 1
-- Added Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi The Animation (988) Season 1
-- Added Touch 2: Sayonara no Okurimono (2492)
-- Added Touch: Sebangou no Nai Ace (2491)
-- Added Ultraman Kids: Haha wo Tazunete 3000-man Kounen (8753) Season 1
-- Added Utopa (21396)
-- Added Yama Nezumi Rocky Chuck (4615) Season 1
+- Added Meitantei Conan Movie 26: Kurogane no Submarine (156841)
+- Added Momochi-san Chi no Ayakashi Ouji (167146) Season 1
+- Added Seikon no Qwaser (6500) Season 1
+- Added Valkyrie Drive: Mermaid (21116) Season 1
+- Added Waza no Tabibito (10904)
+- Added Yuukai Anna (109203)
+- Added Yuusha Exkaiser (3325) Season 1
+- Added Yuusha Shirei Dagwon (3505) Season 1
