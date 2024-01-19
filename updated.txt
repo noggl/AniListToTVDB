@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-01-17 11:35:09.337281
-anime-offline-database.json was last updated at 2024-01-10 11:35:06.913024
+anime-offline-database.json was last updated at 2024-01-19 11:34:55.047583
 
 Recent Updates:
 Added Meitantei Conan Movie 26: Kurogane no Submarine (156841)
