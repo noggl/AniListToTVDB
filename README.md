@@ -20,19 +20,16 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-01-10 11:35:05.082652
+anime-list-full.json was last updated at 2024-01-24 11:35:14.617003
 
-anime-offline-database.json was last updated at 2024-01-10 11:35:06.913024
+anime-offline-database.json was last updated at 2024-01-19 11:34:55.047583
 
 
 
 Recent Updates:
 
-- Added Meitantei Conan Movie 26: Kurogane no Submarine (156841)
-- Added Momochi-san Chi no Ayakashi Ouji (167146) Season 1
-- Added Seikon no Qwaser (6500) Season 1
-- Added Valkyrie Drive: Mermaid (21116) Season 1
-- Added Waza no Tabibito (10904)
-- Added Yuukai Anna (109203)
-- Added Yuusha Exkaiser (3325) Season 1
-- Added Yuusha Shirei Dagwon (3505) Season 1
+- Added Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou (121838)
+- Added Sore Ike! Anpanman: Tobe! Tobe! Chibigon (10057)
+- Added Sore Ike! Anpanman: Tsumikijou no Himitsu (10059)
+- Added Sore Ike! Anpanman: Yomigaere Bananajima (14381)
+- Added Sore Ike! Anpanman: Yousei Rinrin no Himitsu (116039)
