@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-01-24 11:35:14.617003
-anime-offline-database.json was last updated at 2024-01-19 11:34:55.047583
+anime-offline-database.json was last updated at 2024-01-26 11:34:56.736483
 
 Recent Updates:
 Added Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou (121838)
