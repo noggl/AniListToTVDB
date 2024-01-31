@@ -20,16 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-01-24 11:35:14.617003
+anime-list-full.json was last updated at 2024-01-31 11:35:03.566964
 
-anime-offline-database.json was last updated at 2024-01-19 11:34:55.047583
+anime-offline-database.json was last updated at 2024-01-30 11:34:38.556199
 
 
 
 Recent Updates:
 
-- Added Sore Ike! Anpanman: Lyrical☆Magical Mahou no Gakkou (121838)
-- Added Sore Ike! Anpanman: Tobe! Tobe! Chibigon (10057)
-- Added Sore Ike! Anpanman: Tsumikijou no Himitsu (10059)
-- Added Sore Ike! Anpanman: Yomigaere Bananajima (14381)
-- Added Sore Ike! Anpanman: Yousei Rinrin no Himitsu (116039)
+- Added Space Oz no Bouken (3451) Season 1
