@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-02-07 11:35:42.094790
-anime-offline-database.json was last updated at 2024-02-08 11:34:51.598757
+anime-offline-database.json was last updated at 2024-02-10 11:34:57.694085
 
 Recent Updates:
 Added Space Oz no Bouken (3451) Season 1
