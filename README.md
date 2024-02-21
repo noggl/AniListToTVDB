@@ -20,17 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-02-14 11:34:49.823631
+anime-list-full.json was last updated at 2024-02-21 11:34:37.820687
 
-anime-offline-database.json was last updated at 2024-02-11 11:35:00.440918
+anime-offline-database.json was last updated at 2024-02-20 11:34:50.971653
 
 
 
 Recent Updates:
 
-- Added Bishoujo Senshi Sailor Moon Cosmos Movie (148149)
-- Added Cardfight!! Vanguard (164204) Season 10
-- Added Doraemon Movie 42: Nobita to Sora no Utopia (151896)
-- Added Kin no Kuni Mizu no Kuni (151300)
-- Added Tsurune Movie: Hajimari no Issha (125261)
-- Added Yami Shibai (170953) Season 12
+- Added Ninja Kamui (151639) Season 1
