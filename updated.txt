@@ -1,5 +1,9 @@
 anime-list-full.json was last updated at 2024-02-21 11:34:37.820687
-anime-offline-database.json was last updated at 2024-02-20 11:34:50.971653
+anime-offline-database.json was last updated at 2024-02-26 11:34:32.782860
 
 Recent Updates:
-Added Ninja Kamui (151639) Season 1
+Added Aoki Uru (21430)
+Added Arifureta Shokugyou de Sekai Saikyou (154473) Season 3
+Added Dr. Stone (172019) Season 5
+Added Tensei shitara Ken deshita (159042) Season 2
+Added Tsuyokute New Saga (155838) Season 1
