@@ -20,16 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-02-21 11:34:37.820687
+anime-list-full.json was last updated at 2024-02-28 11:35:22.328006
 
-anime-offline-database.json was last updated at 2024-02-26 11:34:32.782860
+anime-offline-database.json was last updated at 2024-02-27 11:35:41.526431
 
 
 
 Recent Updates:
 
-- Added Aoki Uru (21430)
-- Added Arifureta Shokugyou de Sekai Saikyou (154473) Season 3
-- Added Dr. Stone (172019) Season 5
-- Added Tensei shitara Ken deshita (159042) Season 2
-- Added Tsuyokute New Saga (155838) Season 1
+- Added Sore Ike! Anpanman Movie: Roboly to Pokapoka Present (175152)
