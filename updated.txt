@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-03-06 11:34:55.726424
-anime-offline-database.json was last updated at 2024-03-07 11:35:35.119935
+anime-offline-database.json was last updated at 2024-03-12 11:35:44.186028
 
 Recent Updates:
 Added Sore Ike! Anpanman Movie: Roboly to Pokapoka Present (175152)
