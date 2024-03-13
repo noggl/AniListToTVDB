@@ -20,12 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-02-28 11:35:22.328006
+anime-list-full.json was last updated at 2024-03-13 11:34:43.871815
 
-anime-offline-database.json was last updated at 2024-02-27 11:35:41.526431
+anime-offline-database.json was last updated at 2024-03-13 11:34:45.485166
 
 
 
 Recent Updates:
 
-- Added Sore Ike! Anpanman Movie: Roboly to Pokapoka Present (175152)
+- Added Koala Boy Kokki (3723) Season 1
