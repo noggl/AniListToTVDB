@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-03-13 11:34:43.871815
-anime-offline-database.json was last updated at 2024-03-19 11:35:16.258126
+anime-offline-database.json was last updated at 2024-03-26 11:35:38.969770
 
 Recent Updates:
 Added Koala Boy Kokki (3723) Season 1
