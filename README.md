@@ -20,12 +20,13 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-03-13 11:34:43.871815
+anime-list-full.json was last updated at 2024-03-28 11:35:00.540814
 
-anime-offline-database.json was last updated at 2024-03-13 11:34:45.485166
+anime-offline-database.json was last updated at 2024-03-26 11:35:38.969770
 
 
 
 Recent Updates:
 
-- Added Koala Boy Kokki (3723) Season 1
+- Added Hyokkori Hyoutan Shima (148933)
+- Added Synduality: Noir (169559) Season 2
