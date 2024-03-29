@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-03-28 11:35:00.540814
-anime-offline-database.json was last updated at 2024-03-26 11:35:38.969770
+anime-offline-database.json was last updated at 2024-03-29 11:34:54.375745
 
 Recent Updates:
 Added Hyokkori Hyoutan Shima (148933)
