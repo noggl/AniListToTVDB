@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-04-03 11:34:50.106650
-anime-offline-database.json was last updated at 2024-04-06 11:35:03.823774
+anime-offline-database.json was last updated at 2024-04-07 11:35:42.749824
 
 Recent Updates:
 Added Astro Note (171040) Season 1
