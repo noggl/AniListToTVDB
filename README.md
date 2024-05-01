@@ -20,13 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-04-10 11:34:41.104329
+anime-list-full.json was last updated at 2024-05-01 11:34:44.844252
 
-anime-offline-database.json was last updated at 2024-04-09 11:35:43.724577
+anime-offline-database.json was last updated at 2024-05-01 11:34:46.193317
 
 
 
 Recent Updates:
 
-- Added King Kong: 001/7 Tom Thumb (19995) Season 1
-- Added Shibuya♡Hachi (176577) Season 1
+- Added Muu no Hakugei (4933) Season 1

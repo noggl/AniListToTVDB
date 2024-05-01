@@ -1,6 +1,5 @@
-anime-list-full.json was last updated at 2024-04-24 11:35:18.401169
-anime-offline-database.json was last updated at 2024-04-24 11:35:20.416730
+anime-list-full.json was last updated at 2024-05-01 11:34:44.844252
+anime-offline-database.json was last updated at 2024-05-01 11:34:46.193317
 
 Recent Updates:
-Added King Kong: 001/7 Tom Thumb (19995) Season 1
-Added Shibuya♡Hachi (176577) Season 1
+Added Muu no Hakugei (4933) Season 1
