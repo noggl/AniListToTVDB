@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-05-01 11:34:44.844252
-anime-offline-database.json was last updated at 2024-05-01 11:34:46.193317
+anime-offline-database.json was last updated at 2024-05-02 11:34:49.003078
 
 Recent Updates:
 Added Muu no Hakugei (4933) Season 1
