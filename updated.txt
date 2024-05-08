@@ -1,5 +1,6 @@
-anime-list-full.json was last updated at 2024-05-01 11:34:44.844252
+anime-list-full.json was last updated at 2024-05-08 11:35:12.865999
 anime-offline-database.json was last updated at 2024-05-02 11:34:49.003078
 
 Recent Updates:
-Added Muu no Hakugei (4933) Season 1
+Added Hudie Meng: Liang Shan Bo yu Zhu Ying Tai (108279)
+Added Tarou no Banpei Senkoutei no Maki (177180)

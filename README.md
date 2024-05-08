@@ -20,12 +20,13 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-05-01 11:34:44.844252
+anime-list-full.json was last updated at 2024-05-08 11:35:12.865999
 
-anime-offline-database.json was last updated at 2024-05-01 11:34:46.193317
+anime-offline-database.json was last updated at 2024-05-02 11:34:49.003078
 
 
 
 Recent Updates:
 
-- Added Muu no Hakugei (4933) Season 1
+- Added Hudie Meng: Liang Shan Bo yu Zhu Ying Tai (108279)
+- Added Tarou no Banpei Senkoutei no Maki (177180)
