@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-06-05 11:36:04.730362
-anime-offline-database.json was last updated at 2024-06-05 11:36:06.795039
+anime-offline-database.json was last updated at 2024-06-11 11:35:22.500746
 
 Recent Updates:
 Added Hudie Meng: Liang Shan Bo yu Zhu Ying Tai (108279)
