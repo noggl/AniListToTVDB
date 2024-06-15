@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-06-12 11:35:19.898781
-anime-offline-database.json was last updated at 2024-06-11 11:35:22.500746
+anime-offline-database.json was last updated at 2024-06-15 11:35:17.372660
 
 Recent Updates:
 Added 1000-nen Joou: Queen Millennia (1549)
