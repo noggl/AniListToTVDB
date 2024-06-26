@@ -1,67 +1,57 @@
-anime-list-full.json was last updated at 2024-06-19 11:35:16.273142
-anime-offline-database.json was last updated at 2024-06-25 11:36:20.226080
+anime-list-full.json was last updated at 2024-06-26 11:35:23.612734
+anime-offline-database.json was last updated at 2024-06-26 11:35:25.223161
 
 Recent Updates:
-Added 1000-nen Joou: Queen Millennia (1549)
-Added Ace wo Nerae! (1979) (313)
-Added Aikatsu! Movie (20640)
-Added Akihabara Dennou-gumi: 2011-nen no Natsuyasumi (2289)
-Added Alexander Senki Movie (5157)
-Added Alps no Shoujo Heidi: Alm no Yama-hen (9548)
-Added Alps no Shoujo Heidi: Alm no Yama-hen (9549)
-Added Ao Oni The Animation (Movie) (21898)
-Added Boku no Hero Academia: UA Heroes Battle (169402)
-Added Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki (98744)
-Added Cure Miracle to Mofurun no Mahou Lesson (98785)
-Added Death Billiards (14353)
-Added Doraemon Movie 34: Shin Nobita no Daimakyou - Peko to 5-nin no Tankentai (19645)
-Added Dragon Quest: Dai no Daibouken (7435)
-Added Dragon Quest: Dai no Daibouken (7436)
-Added Dragon Quest: Dai no Daibouken (7364)
-Added Dragon Quest: Dai no Daibouken (7491)
-Added FLCL Alternative (21748)
-Added FLCL Alternative (21746)
-Added Fate/Zero Cafe (19165)
-Added Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (100269)
-Added Gegege no Kitarou: Youkai Tokkyuu! Maboroshi no Kisha (8157)
-Added Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka (484)
-Added Gintama: Yorinuki Gintama-san on Theater 2D (20760)
-Added Glass no Chikyuu wo Sukue Unico Special (105255)
-Added Higashi no Eden: Air Communication (6927)
-Added Inazuma Eleven Go vs. Danball Senki W Movie (15785)
-Added Kaiketsu Zorori: Mamoru ze! Kyouryuu no Tamago (19587)
-Added Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin (2077)
-Added Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin (9154)
-Added Kirakira☆Precure A La Mode Movie: Paritto! Omoide no Mille-Feuille! (98891)
-Added Koro-sensei Q! (21864)
-Added Kouya no Kotobuki Hikoutai Kanzenban (115082)
-Added Kyojin no Hoshi (Movie) (17439)
-Added Lupin III: Pilot Film (5225)
-Added Lupin III: Pilot Film (97619)
-Added Lupin III: Pilot Film (107313)
-Added MiniPato (2733)
-Added Mouretsu Pirates: Abyss of Hyperspace (14817)
-Added Orange: Mirai (97669)
-Added Persona 4 the Animation: The Factor of Hope (14267)
-Added Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari (216)
-Added Precure Super Stars! Movie (101101)
-Added Precure Super Stars! Movie (101908)
-Added Pretty Rhythm Movie: All Star Selection - Prism Show☆Best Ten (20581)
-Added Quanzhi Gaoshou: Dianfeng Rongyao (108981)
-Added Ribbon no Kishi (1999) (14249)
-Added Saenai Heroine no Sodatekata Fine (100675)
-Added Saint Seiya: Shinku no Shounen Densetsu (101499)
-Added Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai (20371)
-Added Sidonia no Kishi Movie (21154)
-Added Sore Ike! Anpanman: Utatte Teasobi! Anpanman to Mori no Takara (10685)
-Added Sore Ike! Anpanman: Utatte Teasobi! Anpanman to Mori no Takara (119784)
-Added Star Driver the Movie (12857)
-Added Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete (109737)
-Added Street Fighter Zero The Animation (979)
-Added Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki (10199)
-Added Toriko Movie: Bishokushin no Special Menu (17699)
-Added Tropical-Rouge! Precure Petit Tobikome! Collaboration ♡ Dance Party! (131045)
-Added Uchuu Kyoudai: Itten no Hikari (17573)
-Added Yuuki Yuuna wa Yuushabu Shozoku (97856)
-Added eX-Driver: Nina & Rei Danger Zone (1733)
-Added gdgd Fairies Movie: tte Iu Eiga wa Dou kana...? (20887)
+Added "Oshi no Ko" (166531) Season 2
+Added 2.5-jigen no Ririsa (158559) Season 1
+Added Atri: My Dear Moments (154963) Season 1
+Added Bakeneko Anzu-chan (158641)
+Added Boku no Hero Academia the Movie 4: You're Next (168013)
+Added Boku no Tsuma wa Kanjou ga Nai (175450) Season 1
+Added Bye Bye, Earth (157371) Season 1
+Added Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki (171145)
+Added Delico's Nursery (167991) Season 1
+Added Dungeon no Naka no Hito (168345) Season 1
+Added Elf-san wa Yaserarenai. (173388) Season 1
+Added Fairy Tail: 100-nen Quest (139095) Season 1
+Added Giji Harem (163623) Season 1
+Added Gintama on Theater 2D: Baragaki-hen (169000)
+Added Grendizer U (154195) Season 1
+Added Harimaware! Koinu (176283) Season 2
+Added Hazurewaku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete wo Juurin suru made (173694) Season 1
+Added Isekai Suicide Squad (166710) Season 1
+Added Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu (171031) Season 1
+Added Katsute Mahou Shoujo to Aku wa Tekitai shiteita. (170938) Season 1
+Added Kimi no Iro (158166)
+Added Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (139825) Season 2
+Added Kinnikuman: Kanpeki Chоujin Shiso-hen (162796) Season 1
+Added Koi wa Futago de Warikirenai (167144) Season 1
+Added Look Back (174788)
+Added Madougushi Dahliya wa Utsumukanai (168623) Season 1
+Added Make Heroine ga Oosugiru! (171457) Season 1
+Added Maougun Saikyou no Majutsushi wa Ningen datta (173584) Season 1
+Added Mayonaka Punch (174044) Season 1
+Added Megami no Café Terrace (166477) Season 2
+Added Mob kara Hajimaru Tansaku Eiyuutan (172416) Season 1
+Added Mononoke Movie: Karakasa (151117)
+Added Na Nare Hana Nare (170891) Season 1
+Added Naze Boku no Sekai wo Daremo Oboeteinai no ka? (167419) Season 1
+Added NieR:Automata Ver1.1a (167420) Season 2
+Added Nige Jouzu no Wakagimi (162896) Season 1
+Added Ore wa Subete wo "Parry" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai (170695) Season 1
+Added Patalliro! Stardust Keikaku (12663)
+Added Raiyantsuuri no Uta (9959)
+Added Ramen Akaneko (170998) Season 1
+Added Senpai wa Otokonoko (163133) Season 1
+Added Shikanoko Nokonoko Koshitantan (175977) Season 1
+Added Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru. (163292) Season 1
+Added Shoushimin Series (173295) Season 1
+Added Shy (171748) Season 2
+Added SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!! (176319)
+Added Tasogare Out Focus (166700) Season 1
+Added Tasuuketsu (174070) Season 1
+Added Tensui no Sakuna-hime (175868) Season 1
+Added Tsue to Tsurugi no Wistoria (174576) Season 1
+Added VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta (160488) Season 1
+Added Wonderful Precure! Movie (169403)
+Added Zegapain: STA (168998)
