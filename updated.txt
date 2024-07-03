@@ -1,5 +1,5 @@
-anime-list-full.json was last updated at 2024-06-26 11:35:23.612734
-anime-offline-database.json was last updated at 2024-06-26 11:35:25.223161
+anime-list-full.json was last updated at 2024-07-03 11:35:15.979840
+anime-offline-database.json was last updated at 2024-07-03 11:35:17.540822
 
 Recent Updates:
 Added "Oshi no Ko" (166531) Season 2
