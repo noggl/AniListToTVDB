@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-07-17 11:35:32.305554
-anime-offline-database.json was last updated at 2024-07-16 11:36:36.359355
+anime-offline-database.json was last updated at 2024-07-20 11:35:51.187202
 
 Recent Updates:
 Added Urashima Tarou (supposed title) (7485)
