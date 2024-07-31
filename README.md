@@ -20,12 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-07-17 11:35:32.305554
+anime-list-full.json was last updated at 2024-07-31 11:36:29.947694
 
-anime-offline-database.json was last updated at 2024-07-16 11:36:36.359355
+anime-offline-database.json was last updated at 2024-07-31 11:36:32.017499
 
 
 
 Recent Updates:
 
-- Added Urashima Tarou (supposed title) (7485)
+- Added Sengoku Youko: Yonaoshi Kyoudai-hen (176660) Season 2

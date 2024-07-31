@@ -1,5 +1,5 @@
-anime-list-full.json was last updated at 2024-07-24 11:35:16.703456
-anime-offline-database.json was last updated at 2024-07-24 11:35:19.310705
+anime-list-full.json was last updated at 2024-07-31 11:36:29.947694
+anime-offline-database.json was last updated at 2024-07-31 11:36:32.017499
 
 Recent Updates:
-Added Urashima Tarou (supposed title) (7485)
+Added Sengoku Youko: Yonaoshi Kyoudai-hen (176660) Season 2
