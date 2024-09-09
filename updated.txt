@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-09-04 11:35:48.973794
-anime-offline-database.json was last updated at 2024-09-03 11:35:41.578083
+anime-offline-database.json was last updated at 2024-09-09 11:36:06.682846
 
 Recent Updates:
 Added Sengoku Youko: Yonaoshi Kyoudai-hen (176660) Season 2
