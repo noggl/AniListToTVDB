@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-09-11 11:35:41.097277
-anime-offline-database.json was last updated at 2024-09-11 11:35:42.816574
+anime-offline-database.json was last updated at 2024-09-12 11:35:38.410260
 
 Recent Updates:
 Added Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken (5931)
