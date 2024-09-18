@@ -1,66 +1,12 @@
-anime-list-full.json was last updated at 2024-09-11 11:35:41.097277
-anime-offline-database.json was last updated at 2024-09-17 11:37:02.627281
+anime-list-full.json was last updated at 2024-09-18 11:36:25.368028
+anime-offline-database.json was last updated at 2024-09-18 11:36:27.434298
 
 Recent Updates:
-Added Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken (5931)
-Added Altered Carbon: Resleeved (115715)
-Added Aya to Majo (119321)
-Added Bakemonogatari (15689) Season 3
-Added Bakemonogatari (20593) Season 5
-Added Bakemonogatari (20918) Season 6
-Added Bakemonogatari (21745) Season 8
-Added Baki (2018) (97888) Season 1
-Added Bakugan Battle Brawlers (10330) Season 3
-Added BanG Dream! Garupa☆Pico (101632) Season 1
-Added BanG Dream! Garupa☆Pico (113906) Season 2
-Added BanG Dream! Garupa☆Pico (135171) Season 3
-Added BanG Dream! Morfonication (146501) Season 1
-Added BeyWarriors: Cyborg (102934) Season 1
-Added Blossom (13253)
-Added Bright: Samurai Soul (135432)
-Added Bubble (142455)
-Added Crusher Joe OVA (2696)
-Added Daishizen no Majuu: Bagi (2312)
-Added Dororo (11471)
-Added Elmer no Bouken: My Father`s Dragon (6593)
-Added Exper Zenon (10463)
-Added Fate/Grand Order × Himuro no Tenchi: 7-nin no Saikyou Ijin-hen (100729) Season 1
-Added Hare Tokidoki Buta (107618) Season 1
-Added Hitori no Shita: The Outcast (98574) Season 2
-Added Hora, Mimi ga Mieteru yo! Season 2 (107984) Season 1
-Added I: Wish You Were Here (1156) Season 1
-Added Ikki Tousen (105391) Season 5
-Added Jikken-hin Kazoku: Creatures Family Days (98477) Season 1
-Added JoJo no Kimyou na Bouken (2012) (131942) Season 6
-Added Kara no Kyoukai: Mirai Fukuin - Extra Chorus (20697)
-Added Kennosuke-sama (18603)
-Added Kud Wafter (104749)
-Added Kumo no You ni Kaze no You ni (1032)
-Added Kyoufu no Bio Ningen Saishuu Kyoushi (2780)
-Added Lily C.A.T. (3258)
-Added Magia Record: Mahou Shoujo Madoka★Magica Gaiden (136080) Season 3
-Added Nils no Fushigi na Tabi (Movie) (7664)
-Added Otona no Bouguya-san (104308) Season 1
-Added Otona no Bouguya-san (124136) Season 2
-Added PSYCHO-PASS 3 FIRST INSPECTOR (113917)
-Added Re:Zero kara Hajimeru Isekai Seikatsu (2018) (100049)
-Added Robot Girls Z (19799) Season 1
-Added Ryuu no Haisha (87539) Season 1
-Added SOUND & FURY (111932)
-Added Sango Shou Densetsu: Aoi Umi no Elfie (5014)
-Added Science Saru x MBS Original Short Anime Daisakusen! (174666) Season 1
-Added Seimei no Kagaku: Micro Patrol (3624) Season 1
-Added Self Portrait (8647)
-Added Semiwa Magic Cube (118199) Season 1
-Added Semiwa Magic Cube (118200) Season 2
-Added Shingeki no Kyojin (146984) Season 7
-Added Shiranpuri (Movie) (13175)
-Added Shuranosuke Zanmaken: Shikamamon no Otoko (1451)
-Added Sono Bisque Doll wa Koi wo Suru (154768) Season 2
-Added Strike Witches: Operation Victory Arrow (20650)
-Added Tekken (537)
-Added Tenjou Tenge: The Past Chapter (760)
-Added Thermae Romae (12321) Season 1
-Added Uchuu Senkan Yamato: Aratanaru Tabidachi (3071)
-Added Upotte!! (12317) Season 1
-Added ZENONZARD THE ANIMATION (112033) Season 1
+Added Cutey Honey Flash: The Movie (6496)
+Added Murai no Koi (150930) Season 1
+Added Paripi Koumei: Road to Summer Sonia (171026)
+Added Rakudai Majo: Fuka to Yami no Majo (140173)
+Added Rick and Morty: The Anime (150103) Season 1
+Added Sekai ga Horobiru Mae ni Kimi ni Aitai (148567)
+Added Suzumiya Haruhi no Shoushitsu (7311)
+Added The Journey (110224)
