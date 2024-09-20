@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-09-18 11:36:25.368028
-anime-offline-database.json was last updated at 2024-09-18 11:36:27.434298
+anime-offline-database.json was last updated at 2024-09-20 11:36:11.218885
 
 Recent Updates:
 Added Cutey Honey Flash: The Movie (6496)
