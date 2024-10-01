@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-09-25 11:36:03.664397
-anime-offline-database.json was last updated at 2024-09-30 11:35:53.198071
+anime-offline-database.json was last updated at 2024-10-01 11:36:12.110149
 
 Recent Updates:
 Added Amagami-san Chi no Enmusubi (164172) Season 1
