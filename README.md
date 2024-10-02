@@ -20,70 +20,37 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-09-25 11:36:03.664397
+anime-list-full.json was last updated at 2024-10-02 11:36:04.588806
 
-anime-offline-database.json was last updated at 2024-09-24 11:36:08.228336
+anime-offline-database.json was last updated at 2024-10-01 11:36:12.110149
 
 
 
 Recent Updates:
 
-- Added Amagami-san Chi no Enmusubi (164172) Season 1
-- Added Ao no Exorcist (176311) Season 4
-- Added Ao no Hako (170942) Season 1
-- Added Ao no Miburo (169258) Season 1
-- Added BLUE LOCK (163146) Season 2
-- Added Chi. -Chikyuu no Undou ni Tsuite- (151514) Season 1
-- Added Dandadan (171018) Season 1
-- Added Dragon Ball DAIMA (170083) Season 1
-- Added Dungeon ni Deai wo Motomeru no wa Machigatteiru no Darou ka (170732) Season 6
-- Added FURERU. (171109)
-- Added Fuuto Tantei: Kamen Rider Skull no Shouzou (178774)
-- Added Ganbatte Ikimasshoi (176245)
-- Added Genjitsu no Yohane -SUNSHINE in the MIRROR- Theatrical Compilation (178782)
-- Added Goukon ni Ittara Onna ga Inakatta Hanashi (169931) Season 1
-- Added Haigakura (168537) Season 1
-- Added Hamidashi Creative (169098) Season 1
-- Added Hitoribocchi no Isekai Kouryaku (173693) Season 1
-- Added Hoshifuru Oukoku no Nina (171038) Season 1
-- Added Houkago Shounen Hanako-kun (170893) Season 2
-- Added Hyakushou Kizoku 2nd Season (171689) Season 1
-- Added Kabushikigaisha Magi-Lumière (171025) Season 1
-- Added KamiErabi (172199) Season 2
-- Added Kamonohashi Ron no Kindan Suiri (172355) Season 2
-- Added Kekkon suru tte, Hontou desu ka (165790) Season 1
-- Added Kimi wa Meido-sama. (172190) Season 1
-- Added Kinoko Inu (177581) Season 1
-- Added Love Live! Superstar!! (155502) Season 3
-- Added MF GHOST (171642) Season 2
-- Added Mahoutsukai ni Narenakatta Onnanoko no Hanashi. (107372) Season 1
-- Added Maou 2099 (163135) Season 1
-- Added Maou-sama, Retry! (168500) Season 2
-- Added Mecha-Ude (154673) Season 1
-- Added Nageki no Bourei wa Intai shitai (175019) Season 1
-- Added Nanatsu no Taizai: Mokushiroku no Yonkishi (176292) Season 2
-- Added Natsume Yuujinchou (166611) Season 7
-- Added NegaPosi Angler (179919) Season 1
-- Added Neko ni Tensei shita Ojisan (176191) Season 1
-- Added Nintama Rantarou Movie: Dokutake Ninja-tai Saikyou no Gunshi (175138)
-- Added Oi! Tonbo (178729) Season 2
-- Added Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki (174043) Season 1
-- Added Puniru wa Kawaii Slime (171400) Season 1
-- Added Raise wa Tanin ga Ii (170468) Season 1
-- Added Ranma1/2 (2024) (178533) Season 1
-- Added Re:Zero kara Hajimeru Isekai Seikatsu (163134) Season 4
-- Added Rekishi ni Nokoru Akujo ni Naru zo (168139) Season 1
-- Added Rurouni Kenshin -Meiji Kenkaku Romantan- (2023) (171637) Season 2
-- Added Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru (177104) Season 1
-- Added Sayonara Ryuusei, Konnichiwa Jinsei (176053) Season 1
-- Added Shangri-La Frontier (176508) Season 2
-- Added Shin Tennis no Ouji-sama (165810) Season 3
-- Added Sword Art Online Alternative: Gun Gale Online (167141) Season 2
-- Added TRILLION GAME (169315) Season 1
-- Added Tensei Kizoku, Kantei Skill de Nariagaru (178434) Season 2
-- Added Tohai - Ura Rate Mahjong Tohai Roku (173263) Season 1
-- Added Tono to Inu (174390) Season 1
-- Added Tsuma, Shougakusei ni Naru. (162785) Season 1
-- Added Uzumaki (111314) Season 1
-- Added Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu (164299) Season 1
-- Added Youkai Gakkou no Sensei Hajimemashita! (171545) Season 1
+- Added Ani ni Tsukeru Kusuri wa Nai! (120046) Season 4
+- Added Beyblade Burst (108853) Season 4
+- Added Boku no Hero Academia: UA Heroes Battle (169402)
+- Added Byulbyul Iyagi 2 (9447)
+- Added City Hunter: Hyakuman Dollar no Inbou (1476)
+- Added Doraemon: The Day When I Was Born (2652)
+- Added Fate/kaleid liner Prisma☆Illya: Prisma☆Phantasm (100269)
+- Added Fragtime (108487)
+- Added Gyo (10417)
+- Added Hibike! Euphonium: Ensemble Contest-hen (150429)
+- Added Kick-Heart (16149)
+- Added Kizumonogatari: Koyomi Vamp (181970)
+- Added Little Witch Academia: Mahoujikake no Parade (19489)
+- Added Nanatsu no Taizai (21385) Season 2
+- Added Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai (135178)
+- Added Pastel Life (101596) Season 1
+- Added Pokemon: Pikachu to Eevee Friends (16678)
+- Added Pokemon: Pikachu, Kore Nan no Kagi? (21271)
+- Added Psychic Academy (337) Season 1
+- Added Ribbon no Kishi (1999) (14249)
+- Added Seitokai no Ichizon (5909) Season 1
+- Added Super Shiro (107993) Season 1
+- Added Teki wa Kaizoku: Neko-tachi no Kyouen (2679) Season 1
+- Added To Be Hero (97616) Season 1
+- Added Waza no Tabibito (10904)
+- Added eX-Driver: Nina & Rei Danger Zone (1733)
