@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-10-02 11:36:04.588806
-anime-offline-database.json was last updated at 2024-10-07 11:35:52.416861
+anime-offline-database.json was last updated at 2024-10-08 11:36:18.585187
 
 Recent Updates:
 Added Ani ni Tsukeru Kusuri wa Nai! (120046) Season 4
