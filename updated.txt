@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-10-10 11:35:54.668406
-anime-offline-database.json was last updated at 2024-10-09 11:36:11.717399
+anime-offline-database.json was last updated at 2024-10-12 11:35:18.621436
 
 Recent Updates:
 Added Aharen-san wa Hakarenai (179979) Season 2
