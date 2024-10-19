@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-10-16 11:36:18.847226
-anime-offline-database.json was last updated at 2024-10-18 11:35:58.593972
+anime-offline-database.json was last updated at 2024-10-19 11:37:13.806758
 
 Recent Updates:
 Added Musume Dojoji (179804)
