@@ -1,5 +1,5 @@
-anime-list-full.json was last updated at 2024-10-16 11:36:18.847226
-anime-offline-database.json was last updated at 2024-10-19 11:37:13.806758
+anime-list-full.json was last updated at 2024-10-23 11:36:00.966612
+anime-offline-database.json was last updated at 2024-10-23 11:36:03.095046
 
 Recent Updates:
-Added Musume Dojoji (179804)
+Added Amon Saga (2249)
