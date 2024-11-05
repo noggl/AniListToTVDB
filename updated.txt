@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-10-30 11:35:52.811827
-anime-offline-database.json was last updated at 2024-11-03 11:36:01.627928
+anime-offline-database.json was last updated at 2024-11-05 11:36:10.696211
 
 Recent Updates:
 Added Amon Saga (2249)
