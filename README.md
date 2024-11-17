@@ -20,12 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-10-23 11:36:00.966612
+anime-list-full.json was last updated at 2024-11-17 11:35:41.420215
 
-anime-offline-database.json was last updated at 2024-10-23 11:36:03.095046
+anime-offline-database.json was last updated at 2024-11-12 11:36:05.324653
 
 
 
 Recent Updates:
 
-- Added Amon Saga (2249)
+- Added Osaru no Tairyou (102637)

@@ -1,5 +1,5 @@
-anime-list-full.json was last updated at 2024-11-06 11:35:57.257552
+anime-list-full.json was last updated at 2024-11-17 11:35:41.420215
 anime-offline-database.json was last updated at 2024-11-12 11:36:05.324653
 
 Recent Updates:
-Added Amon Saga (2249)
+Added Osaru no Tairyou (102637)
