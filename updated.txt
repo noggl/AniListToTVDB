@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-11-17 11:35:41.420215
-anime-offline-database.json was last updated at 2024-11-12 11:36:05.324653
+anime-offline-database.json was last updated at 2024-11-19 11:36:02.745547
 
 Recent Updates:
 Added Osaru no Tairyou (102637)
