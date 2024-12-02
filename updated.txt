@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-11-27 11:35:59.027086
-anime-offline-database.json was last updated at 2024-11-23 11:35:46.174135
+anime-offline-database.json was last updated at 2024-12-02 11:36:15.688958
 
 Recent Updates:
 Added Amrita no Kyouen (114606)
