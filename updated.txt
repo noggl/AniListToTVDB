@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-12-04 11:36:07.271068
-anime-offline-database.json was last updated at 2024-12-05 11:35:49.163382
+anime-offline-database.json was last updated at 2024-12-09 11:35:57.368922
 
 Recent Updates:
 Added Poppoya-san: Nonki Ekichou (184982)
