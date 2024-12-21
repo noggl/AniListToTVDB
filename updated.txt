@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2024-12-18 11:36:02.599581
-anime-offline-database.json was last updated at 2024-12-20 11:36:09.050159
+anime-offline-database.json was last updated at 2024-12-21 11:35:50.626794
 
 Recent Updates:
 Added Jigoku Sensei Nube (2025) (179678) Season 1
