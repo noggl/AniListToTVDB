@@ -20,12 +20,13 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2024-12-11 11:35:48.040762
+anime-list-full.json was last updated at 2024-12-25 11:36:01.077661
 
-anime-offline-database.json was last updated at 2024-12-10 11:36:27.355521
+anime-offline-database.json was last updated at 2024-12-25 11:36:02.805395
 
 
 
 Recent Updates:
 
-- Added Jigoku Sensei Nube (2025) (179678) Season 1
+- Added Sono Bisque Doll wa Koi wo Suru (154768) Season 2
+- Added Utsu Musume Sayuri (13405)

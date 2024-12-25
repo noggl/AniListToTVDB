@@ -1,5 +1,6 @@
-anime-list-full.json was last updated at 2024-12-18 11:36:02.599581
-anime-offline-database.json was last updated at 2024-12-22 11:35:44.490649
+anime-list-full.json was last updated at 2024-12-25 11:36:01.077661
+anime-offline-database.json was last updated at 2024-12-25 11:36:02.805395
 
 Recent Updates:
-Added Jigoku Sensei Nube (2025) (179678) Season 1
+Added Sono Bisque Doll wa Koi wo Suru (154768) Season 2
+Added Utsu Musume Sayuri (13405)
