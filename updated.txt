@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2025-02-12 11:35:59.309795
-anime-offline-database.json was last updated at 2025-02-12 11:36:03.139410
+anime-offline-database.json was last updated at 2025-02-13 11:36:08.762938
 
 Recent Updates:
 Added Yami Shibai (177922) Season 13
