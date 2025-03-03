@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2025-02-26 11:36:02.186974
-anime-offline-database.json was last updated at 2025-03-02 11:36:00.538102
+anime-offline-database.json was last updated at 2025-03-03 11:35:51.629514
 
 Recent Updates:
 Added Ao no Exorcist (185880) Season 5
