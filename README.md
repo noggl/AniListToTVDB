@@ -20,14 +20,14 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-02-19 11:35:58.156505
+anime-list-full.json was last updated at 2025-03-07 11:36:15.936550
 
-anime-offline-database.json was last updated at 2025-02-13 11:36:08.762938
+anime-offline-database.json was last updated at 2025-03-07 11:36:17.899221
 
 
 
 Recent Updates:
 
-- Added Ao no Exorcist (185880) Season 5
-- Added Wagamama Fairy Mirumo de Pon! (1744) Season 1
-- Added Yami Shibai (185088) Season 14
+- Added Cat's♥Eye (2043) Season 1
+- Added Cat's♥Eye (146310) Season 2
+- Added Rick and Morty: The Anime (150103) Season 1

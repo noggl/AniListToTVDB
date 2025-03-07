@@ -1,7 +1,7 @@
-anime-list-full.json was last updated at 2025-02-26 11:36:02.186974
-anime-offline-database.json was last updated at 2025-03-06 11:36:14.560810
+anime-list-full.json was last updated at 2025-03-07 11:36:15.936550
+anime-offline-database.json was last updated at 2025-03-07 11:36:17.899221
 
 Recent Updates:
-Added Ao no Exorcist (185880) Season 5
-Added Wagamama Fairy Mirumo de Pon! (1744) Season 1
-Added Yami Shibai (185088) Season 14
+Added Cat's♥Eye (2043) Season 1
+Added Cat's♥Eye (146310) Season 2
+Added Rick and Morty: The Anime (150103) Season 1
