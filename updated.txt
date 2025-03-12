@@ -1,7 +1,5 @@
-anime-list-full.json was last updated at 2025-03-07 11:36:15.936550
+anime-list-full.json was last updated at 2025-03-12 11:36:02.660969
 anime-offline-database.json was last updated at 2025-03-07 11:36:17.899221
 
 Recent Updates:
-Added Cat's♥Eye (2043) Season 1
-Added Cat's♥Eye (146310) Season 2
-Added Rick and Morty: The Anime (150103) Season 1
+Added 1001 Nights (3914)

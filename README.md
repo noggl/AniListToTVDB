@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-03-07 11:36:15.936550
+anime-list-full.json was last updated at 2025-03-12 11:36:02.660969
 
 anime-offline-database.json was last updated at 2025-03-07 11:36:17.899221
 
@@ -28,6 +28,4 @@ anime-offline-database.json was last updated at 2025-03-07 11:36:17.899221
 
 Recent Updates:
 
-- Added Cat's♥Eye (2043) Season 1
-- Added Cat's♥Eye (146310) Season 2
-- Added Rick and Morty: The Anime (150103) Season 1
+- Added 1001 Nights (3914)
