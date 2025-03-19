@@ -20,12 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-03-12 11:36:02.660969
+anime-list-full.json was last updated at 2025-03-19 11:36:09.083701
 
-anime-offline-database.json was last updated at 2025-03-07 11:36:17.899221
+anime-offline-database.json was last updated at 2025-03-18 11:36:09.935372
 
 
 
 Recent Updates:
 
-- Added 1001 Nights (3914)
+- Added IDOLiSH7: Live 4bit - Beyond the Period DAY 1 (161440)
