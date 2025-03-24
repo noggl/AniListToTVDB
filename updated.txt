@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2025-03-19 11:36:09.083701
-anime-offline-database.json was last updated at 2025-03-18 11:36:09.935372
+anime-offline-database.json was last updated at 2025-03-24 11:36:12.967989
 
 Recent Updates:
 Added IDOLiSH7: Live 4bit - Beyond the Period DAY 1 (161440)
