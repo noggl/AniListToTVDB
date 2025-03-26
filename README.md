@@ -20,12 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-03-19 11:36:09.083701
+anime-list-full.json was last updated at 2025-03-26 11:36:04.823995
 
-anime-offline-database.json was last updated at 2025-03-18 11:36:09.935372
+anime-offline-database.json was last updated at 2025-03-25 11:36:07.532445
 
 
 
 Recent Updates:
 
-- Added IDOLiSH7: Live 4bit - Beyond the Period DAY 1 (161440)
+- Added Magical★Taruruuto-kun: Moeru! Yuujou no Mahou Taisen (105194)
