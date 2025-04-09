@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2025-04-02 11:36:16.663049
-anime-offline-database.json was last updated at 2025-03-25 11:36:07.532445
+anime-offline-database.json was last updated at 2025-04-09 11:35:58.983527
 
 Recent Updates:
 Added #Compass 2.0: Sentou Setsuri Kaiseki System (158287) Season 1
