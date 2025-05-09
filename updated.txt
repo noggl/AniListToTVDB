@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2025-05-07 11:37:02.202241
-anime-offline-database.json was last updated at 2025-05-07 11:37:05.685168
+anime-offline-database.json was last updated at 2025-05-09 11:37:15.000440
 
 Recent Updates:
 Added Ao no Hako (189123) Season 2
