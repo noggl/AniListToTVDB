@@ -20,12 +20,12 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-04-16 11:36:11.385754
+anime-list-full.json was last updated at 2025-05-21 11:37:20.748236
 
-anime-offline-database.json was last updated at 2025-04-16 11:36:13.495948
+anime-offline-database.json was last updated at 2025-05-17 11:36:30.372860
 
 
 
 Recent Updates:
 
-- Added Ao no Hako (189123) Season 2
+- Added Jujutsu Kaisen: Kaigyoku/Gyokusetsu (192809)
