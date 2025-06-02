@@ -1,5 +1,5 @@
 anime-list-full.json was last updated at 2025-05-28 11:37:28.611590
-anime-offline-database.json was last updated at 2025-05-17 11:36:30.372860
+anime-offline-database.json was last updated at 2025-06-02 11:37:39.853171
 
 Recent Updates:
 Added Jujutsu Kaisen: Kaigyoku/Gyokusetsu (192809)
