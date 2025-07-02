@@ -20,12 +20,13 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-05-21 11:37:20.748236
+anime-list-full.json was last updated at 2025-07-02 11:38:31.277539
 
-anime-offline-database.json was last updated at 2025-05-17 11:36:30.372860
+anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 
 
 Recent Updates:
 
-- Added Jujutsu Kaisen: Kaigyoku/Gyokusetsu (192809)
+- Added Cooking Papa (8123) Season 1
+- Added Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Movie (139359)

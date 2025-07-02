@@ -1,5 +1,6 @@
-anime-list-full.json was last updated at 2025-06-25 11:39:09.607438
+anime-list-full.json was last updated at 2025-07-02 11:38:31.277539
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Jujutsu Kaisen: Kaigyoku/Gyokusetsu (192809)
+Added Cooking Papa (8123) Season 1
+Added Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Movie (139359)
