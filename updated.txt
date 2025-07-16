@@ -1,158 +1,33 @@
-anime-list-full.json was last updated at 2025-07-09 11:39:50.954712
+anime-list-full.json was last updated at 2025-07-16 11:39:43.314686
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Alps no Shoujo Heidi (1979) (9547)
-Added Aoki Densetsu Shoot! (Movie) (2682)
-Added Aquarion Movie: Ippatsu Gyakuten-hen (6032)
-Added Attack No.1: Namida no Kaiten Receive (9165)
-Added Attack No.1: Namida no Kaiten Receive (9166)
-Added Attack No.1: Namida no Kaiten Receive (9164)
-Added Black Jack: Obaa-chan (10055)
-Added Bonobono (8416)
-Added Bonobono (8403)
-Added Candy Candy: Haru no Yobigoe (2801)
-Added Candy Candy: Haru no Yobigoe (2802)
-Added Captain Tsubasa: Ayaushi! Zen Nihon Jr. (2119)
-Added Captain Tsubasa: Ayaushi! Zen Nihon Jr. (2120)
-Added Captain Tsubasa: Ayaushi! Zen Nihon Jr. (2121)
-Added Chainsaw Man Movie: Reze-hen (171627)
-Added Chibi Maruko-chan: Watashi no Suki na Uta (9348)
-Added Choro Q Dougram (2258)
-Added Choro Q Dougram (9972)
-Added Chou Seimeitai Transformers Beast Wars Metals: Convoy Daihenshin! (9274)
-Added Crayon Shin-chan Movie 04: Henderland no Daibouken (8359)
-Added Crayon Shin-chan Movie 04: Henderland no Daibouken (8360)
-Added Crayon Shin-chan Movie 04: Henderland no Daibouken (8361)
-Added Crayon Shin-chan Movie 04: Henderland no Daibouken (8365)
-Added Crayon Shin-chan Movie 04: Henderland no Daibouken (2172)
-Added Digimon Adventure 3D: Digimon Grand Prix! (8490)
-Added Digimon Savers 3D: Digital World Kiki Ippatsu! (8491)
-Added Doraemon Movie 03: Nobita no Daimakyou (2671)
-Added Doraemon Movie 03: Nobita no Daimakyou (2648)
-Added Doraemon Movie 03: Nobita no Daimakyou (2660)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (7666)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (8546)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (7667)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (6028)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (8547)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (7816)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (7157)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (8548)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (7158)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (8550)
-Added Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima (8551)
-Added Dr. Stone (189117) Season 6
-Added Futari wa Precure: Splash☆Star Maji★Doki♥ Theater (104436)
-Added GS Mikami: Gokuraku Daisakusen!! (3037)
-Added Gekitou! Crush Gear Turbo: Kaizabaan no Chousen (19271)
-Added Ginga Tetsudou 999: Diamond Ring no Kanata e (7285)
-Added Gokinjo Monogatari the Movie (7578)
-Added Grand Blue (182309) Season 2
-Added Hamelin no Violin Hiki: The Movie (2207)
-Added Hana yori Dango (Movie) (2071)
-Added Hare Tokidoki Buta (107618)
-Added Hetalia Axis Powers Movie: Paint it, White (7337)
-Added Hi no Tori: Hagoromo-hen (158699)
-Added Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita (1552)
-Added High School! Kimengumi (Movie) (5956)
-Added Hikaru ga Shinda Natsu (177689) Season 1
-Added Hotel Inhumans (184034) Season 1
-Added Ie Naki Ko (Movie) (2831)
-Added Jibaku Shounen Hanako-kun (189326) Season 3
-Added Jigoku Sensei Nube (Movie) (8208)
-Added JoJo no Kimyou na Bouken: Phantom Blood (3603)
-Added Kaibutsu-kun: Kaibutsu Land e no Shoutai (128021)
-Added Kaibutsu-kun: Kaibutsu Land e no Shoutai (132655)
-Added Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi (6965)
-Added Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi (3659)
-Added Kanojo, Okarishimasu (179344) Season 4
-Added Kaoru Hana wa Rin to Saku (181444) Season 1
-Added Kingyo Chuuihou! (Movie) (3155)
-Added Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen!! (3547)
-Added Konjiki no Gash Bell!!: 101-banme no Mamono (844)
-Added Koujo Denka no Kateikyoushi (170113) Season 1
-Added Lady Lady!! (1988) (9773)
-Added Mahoujin Guruguru Movie (796)
-Added Mahoutsukai Sally (Movie) (17719)
-Added Marmalade Boy Movie (520)
-Added Maroko (4640)
-Added Maze☆Bakunetsu Jikuu: Tenpen Kyoui no Giant (8442)
-Added Meitantei Conan: Conan vs. Kid - Shark & Jewel (9785)
-Added Meitantei Conan: Conan vs. Kid - Shark & Jewel (9786)
-Added Mikadono Sanshimai wa Angai, Choroi. (178886) Season 1
-Added Mizu Zokusei no Mahoutsukai (186052) Season 1
-Added Nangoku Shounen Papuwa-kun (2503) Season 1
-Added Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!! (10659)
-Added Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!! (10686)
-Added Ningen Shikkaku: Director's Cut-ban (7651)
-Added Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki (177143)
-Added Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki (177144)
-Added Ninkuu (Movie) (2851)
-Added Ojamajo Doremi Sharp Movie (2947)
-Added Ojamajo Doremi Sharp Movie (2948)
-Added Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu! (19879)
-Added Perrine Monogatari Movie (16458)
-Added Pokemon 3D Adventure: Mew wo Sagase! (11019)
-Added Pokemon 3D Adventure: Mew wo Sagase! (11009)
-Added Rokumon Tengai Mon Colle Knights Movie: Densetsu no Fire Dragon (5314)
-Added SF Saiyuuki Starzinger (Movie) (17165)
-Added Sakamoto Days (184237) Season 2
-Added Sakigake!! Otokojuku Movie (4031)
-Added Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai (171046) Season 2
-Added Sengoku Majin Goushougun (Movie) (10820)
-Added Shouwa Monogatari (Movie) (10013)
-Added Silent Witch: Chinmoku no Majo no Kakushigoto (179966) Season 1
-Added Sore Ike! Anpanman: Omusubiman (19433)
-Added Sore Ike! Anpanman: Omusubiman (141057)
-Added Sore Ike! Anpanman: Omusubiman (121832)
-Added Sore Ike! Anpanman: Omusubiman (143548)
-Added Sore Ike! Anpanman: Omusubiman (121825)
-Added Sore Ike! Anpanman: Omusubiman (10058)
-Added Sore Ike! Anpanman: Omusubiman (145475)
-Added Sore Ike! Anpanman: Omusubiman (10060)
-Added Sore Ike! Anpanman: Omusubiman (121822)
-Added Sore Ike! Anpanman: Omusubiman (9446)
-Added Sore Ike! Anpanman: Omusubiman (145479)
-Added Sore Ike! Anpanman: Omusubiman (116045)
-Added Sore Ike! Anpanman: Omusubiman (121830)
-Added Sore Ike! Anpanman: Omusubiman (145481)
-Added Sore Ike! Anpanman: Omusubiman (9451)
-Added Sore Ike! Anpanman: Omusubiman (112006)
-Added Sore Ike! Anpanman: Omusubiman (121837)
-Added Sore Ike! Anpanman: Omusubiman (119836)
-Added Sore Ike! Anpanman: Omusubiman (17219)
-Added Sore Ike! Anpanman: Omusubiman (20113)
-Added Sore Ike! Anpanman: Omusubiman (171929)
-Added Sore Ike! Anpanman: Omusubiman (171928)
-Added Sore Ike! Anpanman: Omusubiman (174124)
-Added Sore Ike! Anpanman: Omusubiman (17215)
-Added Sore Ike! Anpanman: Omusubiman (140307)
-Added Sore Ike! Anpanman: Omusubiman (18591)
-Added Sore Ike! Anpanman: Omusubiman (171760)
-Added Sore Ike! Anpanman: Omusubiman (121826)
-Added Sore Ike! Anpanman: Omusubiman (148664)
-Added Sore Ike! Anpanman: Omusubiman (121840)
-Added Sore Ike! Anpanman: Omusubiman (169982)
-Added Sore Ike! Anpanman: Omusubiman (18357)
-Added Tetsuwan Atom: Chikyuu Saigo no Hi (17961)
-Added Tetsuwan Atom: Chikyuu Saigo no Hi (17959)
-Added Tetsuwan Atom: Chikyuu Saigo no Hi (18637)
-Added Tetsuwan Atom: Chikyuu Saigo no Hi (17963)
-Added The☆Doraemons: Kaitou Dorapin Nazo no Chousenjou! (2625)
-Added The☆Doraemons: Kaitou Dorapin Nazo no Chousenjou! (2626)
-Added The☆Doraemons: Kaitou Dorapin Nazo no Chousenjou! (2628)
-Added The☆Doraemons: Kaitou Dorapin Nazo no Chousenjou! (2631)
-Added Tiger Mask (Movie) (18061)
-Added Tiger Mask (Movie) (18063)
-Added Top wo Nerae! & Top wo Nerae 2! Gattai Movie!! (1911)
-Added Toshokan Sensou: Kakumei no Tsubasa (11001)
-Added UFO Robo Grendizer tai Great Mazinger (4387)
-Added Uchuu Enban Dai-Sensou (5620)
-Added Versailles no Bara: Seimei Aru Kagiri Aishite (3868)
-Added Watari-kun no xx ga Houkai Sunzen (169420) Season 1
-Added Xabungle Graffiti (5303)
-Added Xiongmao Monogatari TaoTao (102460)
-Added Youkoso Lodoss-tou e! (2840)
-Added Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru (179885) Season 1
-Added Yu☆Gi☆Oh! (Movie) (2006)
+Added 9: Ruler's Crown (177761) Season 1
+Added Ame to Kimi to (180425) Season 1
+Added Aoi Kioku: Manmou Kaitaku to Shounen-tachi (17117)
+Added Arknights: Reimei Zensou (177175) Season 3
+Added Busamen Gachi Fighter (184575) Season 1
+Added Busu ni Hanataba wo. (156395) Season 1
+Added Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (178869) Season 1
+Added Dekin no Mogura (184574) Season 1
+Added Fermat no Ryouri (186003) Season 1
+Added Food Court de, Mata Ashita. (185519) Season 1
+Added Futari Solo Camp (185965) Season 1
+Added Game Center Shoujo to Ibunka Kouryuu (180794) Season 1
+Added Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku (178433) Season 1
+Added Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou (169440) Season 2
+Added Karaoke Iko! (183127) Season 1
+Added Kizetsu Yuusha to Ansatsu Hime (186561) Season 1
+Added Mattaku Saikin no Tantei to Kitara (180460) Season 1
+Added Muchuu sa, Kimi ni. (183128) Season 1
+Added Nyaight of the Living Cat (175124) Season 1
+Added Osomatsu-san (177880) Season 4
+Added Puniru wa Kawaii Slime (185755) Season 2
+Added Ruri no Houseki (180929) Season 1
+Added Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu (178090) Season 2
+Added Tougen Anki (177474) Season 1
+Added Tsuihousha Shokudou e Youkoso! (185544) Season 1
+Added Turkey! (159483) Season 1
+Added Utagoe wa Mille-Feuille (166215) Season 1
+Added Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (184591) Season 1
+Added Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru (179879) Season 1
