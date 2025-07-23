@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-07-16 11:39:43.314686
+anime-list-full.json was last updated at 2025-07-23 11:40:34.830022
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,32 +28,7 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added 9: Ruler's Crown (177761) Season 1
-- Added Ame to Kimi to (180425) Season 1
-- Added Aoi Kioku: Manmou Kaitaku to Shounen-tachi (17117)
-- Added Arknights: Reimei Zensou (177175) Season 3
-- Added Busamen Gachi Fighter (184575) Season 1
-- Added Busu ni Hanataba wo. (156395) Season 1
-- Added Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (178869) Season 1
-- Added Dekin no Mogura (184574) Season 1
-- Added Fermat no Ryouri (186003) Season 1
-- Added Food Court de, Mata Ashita. (185519) Season 1
-- Added Futari Solo Camp (185965) Season 1
-- Added Game Center Shoujo to Ibunka Kouryuu (180794) Season 1
-- Added Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku (178433) Season 1
-- Added Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou (169440) Season 2
-- Added Karaoke Iko! (183127) Season 1
-- Added Kizetsu Yuusha to Ansatsu Hime (186561) Season 1
-- Added Mattaku Saikin no Tantei to Kitara (180460) Season 1
-- Added Muchuu sa, Kimi ni. (183128) Season 1
-- Added Nyaight of the Living Cat (175124) Season 1
-- Added Osomatsu-san (177880) Season 4
-- Added Puniru wa Kawaii Slime (185755) Season 2
-- Added Ruri no Houseki (180929) Season 1
-- Added Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu (178090) Season 2
-- Added Tougen Anki (177474) Season 1
-- Added Tsuihousha Shokudou e Youkoso! (185544) Season 1
-- Added Turkey! (159483) Season 1
-- Added Utagoe wa Mille-Feuille (166215) Season 1
-- Added Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (184591) Season 1
-- Added Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru (179879) Season 1
+- Added Bad Girl (178675) Season 1
+- Added City The Animation (181841) Season 1
+- Added Kamitsubaki-shi Kensetsuchuu. (173335) Season 1
+- Added Onmyou Kaiten Re:Birth (187387) Season 1
