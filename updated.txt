@@ -1,8 +1,5 @@
-anime-list-full.json was last updated at 2025-08-06 11:41:01.338447
+anime-list-full.json was last updated at 2025-08-13 11:39:02.954010
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Bad Girl (178675) Season 1
-Added City The Animation (181841) Season 1
-Added Kamitsubaki-shi Kensetsuchuu. (173335) Season 1
-Added Onmyou Kaiten Re:Birth (187387) Season 1
+Added Yami Shibai (194088) Season 15
