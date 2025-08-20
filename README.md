@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-08-13 11:39:02.954010
+anime-list-full.json was last updated at 2025-08-20 11:37:35.480060
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,4 +28,4 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Yami Shibai (194088) Season 15
+- Added Waga Seishun no Arcadia (2202)
