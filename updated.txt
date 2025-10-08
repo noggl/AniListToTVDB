@@ -1,47 +1,6 @@
-anime-list-full.json was last updated at 2025-10-01 11:36:03.411492
+anime-list-full.json was last updated at 2025-10-08 11:36:25.782215
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Akujiki Reijou to Kyouketsu Koushaku (183291) Season 1
-Added Alma-chan wa Kazoku ni Naritai (186190) Season 1
-Added Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga (186794) Season 1
-Added Ao no Orchestra (170018) Season 2
-Added Boku no Hero Academia (182896) Season 8
-Added Bukiyou na Senpai. (185575) Season 1
-Added Chanto Suenai Kyuuketsuki-chan (186524) Season 1
-Added Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. (173692) Season 1
-Added Chitose-kun wa Ramune Bin no Naka (180082) Season 1
-Added Debu to Love to Ayamachi to! (170936) Season 1
-Added Digimon Beatbreak (188388) Season 1
-Added Egao no Taenai Shokuba desu. (173523) Season 1
-Added Fumetsu no Anata e (162669) Season 3
-Added Gnosia (185116) Season 1
-Added Isekai Quartet (194447) Season 3
-Added Kakuriyo no Yadomeshi (177271) Season 2
-Added Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun (187940) Season 1
-Added Kekkon Yubiwa Monogatari (176298) Season 2
-Added Kikaijikake no Marie (179992) Season 1
-Added Kimi to Koete Koi ni Naru (186161) Season 1
-Added Let's Play: Quest-darake no My Life (193968) Season 1
-Added Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu (188487) Season 1
-Added Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga (169969) Season 1
-Added Overlord Movie 3: Sei Oukoku-hen (133845)
-Added Panty & Stocking with Garterbelt (151799) Season 2
-Added Ranma ½ (2024) (185731) Season 2
-Added Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka (181447) Season 1
-Added Sanda (179302) Season 1
-Added Sawaranaide Kotesashi-kun (187331) Season 1
-Added Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu! (184322) Season 1
-Added Shuumatsu Touring (186920) Season 1
-Added Sozai Saishuka no Isekai Ryokouki (187663) Season 1
-Added Spy x Family (177937) Season 4
-Added Taiyou yori mo Mabushii Hoshi (186621) Season 1
-Added Tensei Akujo no Kuro Rekishi (174914) Season 1
-Added Tomodachi no Imouto ga Ore ni dake Uzai (129195) Season 1
-Added Tondemo Skill de Isekai Hourou Meshi (170577) Season 2
-Added Toujima Tanzaburou wa Kamen Rider ni Naritai (187464) Season 1
-Added Wandance (180436) Season 1
-Added Watashi wo Tabetai, Hitodenashi (183385) Season 1
-Added Yano-kun no Futsuu no Hibi (183965) Season 1
-Added Yasei no Last Boss ga Arawareta! (180523) Season 1
-Added Zombieland Saga Movie: Yumeginga Paradise (140337)
+Added Area 88 Movie (98129)
+Added Nageki no Bourei wa Intai shitai (185801) Season 2
