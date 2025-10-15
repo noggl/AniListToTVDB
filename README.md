@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-10-08 11:36:25.782215
+anime-list-full.json was last updated at 2025-10-15 11:36:27.632678
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,5 +28,4 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Area 88 Movie (98129)
-- Added Nageki no Bourei wa Intai shitai (185801) Season 2
+- Added Kingdom (190840) Season 6
