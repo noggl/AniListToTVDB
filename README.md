@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-10-15 11:36:27.632678
+anime-list-full.json was last updated at 2025-10-29 11:37:14.213428
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,4 +28,4 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Kingdom (190840) Season 6
+- Added Nukitashi the Animation (174188) Season 1
