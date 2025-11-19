@@ -1,5 +1,7 @@
-anime-list-full.json was last updated at 2025-11-12 11:37:48.550192
+anime-list-full.json was last updated at 2025-11-19 11:37:19.803085
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Nukitashi the Animation (174188) Season 1
+Added 2.5-jigen no Ririsa (185515) Season 2
+Added Digimon Adventure 02: The Beginning (137310)
+Added Lupin the IIIrd the Movie: Fujimi no Ketsuzoku (185084)
