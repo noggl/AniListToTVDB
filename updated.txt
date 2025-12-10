@@ -1,7 +1,5 @@
-anime-list-full.json was last updated at 2025-11-26 11:37:59.747014
+anime-list-full.json was last updated at 2025-12-10 11:38:43.967025
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added 2.5-jigen no Ririsa (185515) Season 2
-Added Digimon Adventure 02: The Beginning (137310)
-Added Lupin the IIIrd the Movie: Fujimi no Ketsuzoku (185084)
+Added Ginga Tokkyuu Milky☆Subway (189069) Season 1

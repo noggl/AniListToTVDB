@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-11-19 11:37:19.803085
+anime-list-full.json was last updated at 2025-12-10 11:38:43.967025
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,6 +28,4 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added 2.5-jigen no Ririsa (185515) Season 2
-- Added Digimon Adventure 02: The Beginning (137310)
-- Added Lupin the IIIrd the Movie: Fujimi no Ketsuzoku (185084)
+- Added Ginga Tokkyuu Milky☆Subway (189069) Season 1
