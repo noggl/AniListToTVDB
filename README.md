@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2025-12-10 11:38:43.967025
+anime-list-full.json was last updated at 2025-12-17 11:40:17.455504
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,4 +28,5 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Ginga Tokkyuu Milky☆Subway (189069) Season 1
+- Added Kakkun Cafe (182144)
+- Added Kappa Kawatarou (114344)
