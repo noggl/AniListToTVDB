@@ -1,4 +1,4 @@
-anime-list-full.json was last updated at 2026-01-21 11:45:07.664225
+anime-list-full.json was last updated at 2026-01-28 11:43:38.508216
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
