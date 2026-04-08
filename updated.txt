@@ -1,6 +1,7 @@
-anime-list-full.json was last updated at 2026-04-01 12:06:08.910452
+anime-list-full.json was last updated at 2026-04-08 12:06:43.670521
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Shimajirou no Wow! Movie 2: Shimajirou to Kujira no Uta (20550)
-Added Shimajirou no Wow! Movie 3: Shimajirou to Ookinaki (131642)
+Added Initial D Third Stage (20842)
+Added Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen (178707)
+Added Overlord Movie 1: Fushisha no Ou (98873)

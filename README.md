@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2026-03-25 12:01:41.240262
+anime-list-full.json was last updated at 2026-04-08 12:06:43.670521
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,5 +28,6 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Shimajirou no Wow! Movie 2: Shimajirou to Kujira no Uta (20550)
-- Added Shimajirou no Wow! Movie 3: Shimajirou to Ookinaki (131642)
+- Added Initial D Third Stage (20842)
+- Added Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen (178707)
+- Added Overlord Movie 1: Fushisha no Ou (98873)
