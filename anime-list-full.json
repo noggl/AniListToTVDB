@@ -1757,7 +1757,6 @@
   "themoviedb_id" : 35790,
   "tvdb_id" : 70668,
   "season" : {
-    "tvdb" : 1,
     "tmdb" : 1
   }
 }, {
@@ -25372,7 +25371,11 @@
   "kitsu_id" : 2733,
   "livechart_id" : 7747,
   "mal_id" : 3025,
-  "simkl_id" : 37534
+  "simkl_id" : 37534,
+  "themoviedb_id" : 25330,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 1827,
@@ -31175,10 +31178,17 @@
   "animenewsnetwork_id" : 2077,
   "anime-planet_id" : "shoukoushi-cedie",
   "anisearch_id" : 613,
+  "imdb_id" : "tt0168376",
   "kitsu_id" : 2320,
   "livechart_id" : 6877,
   "mal_id" : 2555,
-  "simkl_id" : 38374
+  "simkl_id" : 38374,
+  "themoviedb_id" : 19761,
+  "tvdb_id" : 172161,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 2297,
@@ -36472,7 +36482,11 @@
   "kitsu_id" : 4070,
   "livechart_id" : 8075,
   "mal_id" : 5353,
-  "simkl_id" : 38814
+  "simkl_id" : 38814,
+  "themoviedb_id" : 202646,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "type" : "SPECIAL",
   "anidb_id" : 2780,
@@ -38218,7 +38232,8 @@
   "kitsu_id" : 1737,
   "livechart_id" : 8444,
   "mal_id" : 1927,
-  "simkl_id" : 40566
+  "simkl_id" : 40566,
+  "themoviedb_id" : 166697
 }, {
   "type" : "OVA",
   "anidb_id" : 2925,
@@ -50362,7 +50377,8 @@
   "kitsu_id" : 3773,
   "livechart_id" : 9064,
   "mal_id" : 4756,
-  "simkl_id" : 37768
+  "simkl_id" : 37768,
+  "themoviedb_id" : 131378
 }, {
   "anidb_id" : 4352
 }, {
@@ -58987,9 +59003,11 @@
   "animenewsnetwork_id" : 8214,
   "anime-planet_id" : "heavy",
   "anisearch_id" : 4316,
+  "imdb_id" : "tt27128105",
   "kitsu_id" : 6427,
   "mal_id" : 10964,
-  "simkl_id" : 37104
+  "simkl_id" : 37104,
+  "themoviedb_id" : 588106
 }, {
   "type" : "OVA",
   "anidb_id" : 5231,
@@ -59138,7 +59156,8 @@
   "anisearch_id" : 3881,
   "kitsu_id" : 3187,
   "mal_id" : 3675,
-  "simkl_id" : 38509
+  "simkl_id" : 38509,
+  "themoviedb_id" : 178011
 }, {
   "type" : "TV",
   "anidb_id" : 5251,
@@ -59264,7 +59283,11 @@
   "anisearch_id" : 4336,
   "kitsu_id" : 9180,
   "mal_id" : 17501,
-  "simkl_id" : 39908
+  "simkl_id" : 39908,
+  "themoviedb_id" : 219534,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "type" : "OVA",
   "anidb_id" : 5265,
@@ -59889,7 +59912,11 @@
   "anisearch_id" : 4379,
   "kitsu_id" : 5723,
   "mal_id" : 9404,
-  "simkl_id" : 1310993
+  "simkl_id" : 1310993,
+  "themoviedb_id" : 300128,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "anidb_id" : 5328
 }, {
@@ -69287,7 +69314,8 @@
   "anisearch_id" : 4159,
   "kitsu_id" : 4554,
   "mal_id" : 6419,
-  "simkl_id" : 36363
+  "simkl_id" : 36363,
+  "themoviedb_id" : 927665
 }, {
   "type" : "SPECIAL",
   "anidb_id" : 6515,
@@ -72089,7 +72117,13 @@
   "kitsu_id" : 4823,
   "livechart_id" : 3901,
   "mal_id" : 6987,
-  "simkl_id" : 36705
+  "simkl_id" : 36705,
+  "themoviedb_id" : 73108,
+  "tvdb_id" : 467259,
+  "season" : {
+    "tvdb" : 0,
+    "tmdb" : 0
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 6783,
@@ -74206,7 +74240,8 @@
   "anisearch_id" : 5747,
   "kitsu_id" : 8507,
   "mal_id" : 20587,
-  "simkl_id" : 41017
+  "simkl_id" : 41017,
+  "themoviedb_id" : 654552
 }, {
   "type" : "MOVIE",
   "anidb_id" : 6987,
@@ -77086,9 +77121,11 @@
   "animenewsnetwork_id" : 23352,
   "anime-planet_id" : "bara-no-hana-to-joe",
   "anisearch_id" : 5925,
+  "imdb_id" : "tt8906676",
   "kitsu_id" : 5653,
   "mal_id" : 9279,
-  "simkl_id" : 38835
+  "simkl_id" : 38835,
+  "themoviedb_id" : 328363
 }, {
   "type" : "TV",
   "anidb_id" : 7274,
@@ -92387,16 +92424,14 @@
   "animecountdown_id" : 36348,
   "anime-planet_id" : "pretty-cure-splash-star-magic-doki-3d-theater",
   "anisearch_id" : 7363,
-  "imdb_id" : "tt0057422",
   "kitsu_id" : 9124,
   "livechart_id" : 6550,
   "mal_id" : 26053,
   "simkl_id" : 36348,
-  "themoviedb_id" : 36324,
+  "themoviedb_id" : 793730,
   "tvdb_id" : 241301,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "TV",
@@ -96740,9 +96775,12 @@
   "anilist_id" : 17677,
   "animecountdown_id" : 41327,
   "animenewsnetwork_id" : 15179,
-  "imdb_id" : "tt3392330",
+  "imdb_id" : "tt3093522",
   "simkl_id" : 41327,
-  "themoviedb_id" : 240745
+  "themoviedb_id" : 240745,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 9126,
@@ -120043,7 +120081,8 @@
   "anisearch_id" : 10846,
   "kitsu_id" : 8968,
   "mal_id" : 26303,
-  "simkl_id" : 508366
+  "simkl_id" : 508366,
+  "themoviedb_id" : 1447920
 }, {
   "type" : "OVA",
   "anidb_id" : 11336,
@@ -129444,10 +129483,12 @@
   "animenewsnetwork_id" : 19634,
   "anime-planet_id" : "charanpo-land-no-bouken",
   "anisearch_id" : 11521,
+  "imdb_id" : "tt31939315",
   "kitsu_id" : 12336,
   "livechart_id" : 2205,
   "mal_id" : 33388,
-  "simkl_id" : 590169
+  "simkl_id" : 590169,
+  "themoviedb_id" : 440672
 }, {
   "type" : "MOVIE",
   "anidb_id" : 12155,
@@ -151361,10 +151402,12 @@
   "animenewsnetwork_id" : 22097,
   "anime-planet_id" : "hello-wego",
   "anisearch_id" : 13707,
+  "imdb_id" : "tt31942025",
   "kitsu_id" : 42995,
   "livechart_id" : 3354,
   "mal_id" : 38011,
-  "simkl_id" : 848003
+  "simkl_id" : 848003,
+  "themoviedb_id" : 571570
 }, {
   "type" : "MOVIE",
   "anidb_id" : 14179,
@@ -161015,7 +161058,11 @@
   "anisearch_id" : 19693,
   "kitsu_id" : 9762,
   "mal_id" : 27843,
-  "simkl_id" : 2750128
+  "simkl_id" : 2750128,
+  "themoviedb_id" : 282707,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 15032,
@@ -187469,6 +187516,7 @@
   "livechart_id" : 11733,
   "mal_id" : 53874,
   "simkl_id" : 2059218,
+  "themoviedb_id" : 321113,
   "tvdb_id" : 428456,
   "season" : {
     "tvdb" : 1
@@ -199736,10 +199784,12 @@
   "animenewsnetwork_id" : 33594,
   "anime-planet_id" : "miss-kobayashis-dragon-maid-movie-a-lonely-dragon-wants-to-be-loved",
   "anisearch_id" : 19605,
+  "imdb_id" : "tt36592985",
   "kitsu_id" : 49215,
   "livechart_id" : 12845,
   "mal_id" : 59897,
-  "simkl_id" : 2587360
+  "simkl_id" : 2587360,
+  "themoviedb_id" : 1359607
 }, {
   "type" : "TV",
   "anidb_id" : 18874,
@@ -202660,10 +202710,12 @@
   "anilist_id" : 185898,
   "animecountdown_id" : 2720116,
   "anisearch_id" : 20219,
+  "imdb_id" : "tt37899207",
   "kitsu_id" : 50164,
   "livechart_id" : 13064,
   "mal_id" : 61038,
-  "simkl_id" : 2720116
+  "simkl_id" : 2720116,
+  "themoviedb_id" : 1479388
 }, {
   "type" : "MOVIE",
   "anidb_id" : 19169,
@@ -209503,10 +209555,17 @@
   "animenewsnetwork_id" : 38802,
   "anime-planet_id" : "komekami-girls",
   "anisearch_id" : 19743,
+  "imdb_id" : "tt41274718",
   "kitsu_id" : 50647,
   "livechart_id" : 13568,
   "mal_id" : 63709,
-  "simkl_id" : 3060044
+  "simkl_id" : 3060044,
+  "themoviedb_id" : 317727,
+  "tvdb_id" : 476071,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19933,
@@ -209516,7 +209575,13 @@
   "anime-planet_id" : "jm",
   "livechart_id" : 13546,
   "mal_id" : 63697,
-  "simkl_id" : 3045488
+  "simkl_id" : 3045488,
+  "themoviedb_id" : 316693,
+  "tvdb_id" : 475261,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 19938,
@@ -209545,7 +209610,13 @@
   "kitsu_id" : 50607,
   "livechart_id" : 13548,
   "mal_id" : 63712,
-  "simkl_id" : 3046168
+  "simkl_id" : 3046168,
+  "themoviedb_id" : 316694,
+  "tvdb_id" : 475306,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19943,
@@ -209569,7 +209640,13 @@
   "kitsu_id" : 50587,
   "livechart_id" : 13549,
   "mal_id" : 63713,
-  "simkl_id" : 3046172
+  "simkl_id" : 3046172,
+  "themoviedb_id" : 316720,
+  "tvdb_id" : 475350,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19945,
@@ -209811,6 +209888,30 @@
   "tvdb_id" : 453992,
   "season" : {
     "tvdb" : 0
+  }
+}, {
+  "anidb_id" : 20009,
+  "themoviedb_id" : 319900,
+  "tvdb_id" : 476805,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20010,
+  "themoviedb_id" : 285994,
+  "tvdb_id" : 476804,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20039,
+  "themoviedb_id" : 65930,
+  "tvdb_id" : 305074,
+  "season" : {
+    "tvdb" : 0,
+    "tmdb" : 0
   }
 }, {
   "type" : "SPECIAL",

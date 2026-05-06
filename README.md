@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2026-04-08 12:06:43.670521
+anime-list-full.json was last updated at 2026-05-06 13:10:43.665673
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,6 +28,9 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Initial D Third Stage (20842)
-- Added Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen (178707)
-- Added Overlord Movie 1: Fushisha no Ou (98873)
+- Added Bara no Hana to Joe (9279)
+- Added Charanpo Land no Bouken (21844)
+- Added Galaxy Apartment☆Cosmo Hills (185898)
+- Added Heavy (10964)
+- Added Hello WeGo! (107859)
+- Added Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu (181839)
