@@ -6058,7 +6058,10 @@
   "mal_id" : 1293,
   "simkl_id" : 37160,
   "themoviedb_id" : 34163,
-  "tvdb_id" : 75113
+  "tvdb_id" : 75113,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "type" : "MOVIE",
   "anidb_id" : 378,
@@ -6072,11 +6075,10 @@
   "livechart_id" : 8726,
   "mal_id" : 1920,
   "simkl_id" : 37523,
-  "themoviedb_id" : 34163,
+  "themoviedb_id" : 150023,
   "tvdb_id" : 75113,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "MOVIE",
@@ -6091,11 +6093,10 @@
   "livechart_id" : 8215,
   "mal_id" : 1921,
   "simkl_id" : 38640,
-  "themoviedb_id" : 34163,
+  "themoviedb_id" : 43967,
   "tvdb_id" : 75113,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "MOVIE",
@@ -6110,11 +6111,10 @@
   "livechart_id" : 8720,
   "mal_id" : 1922,
   "simkl_id" : 37217,
-  "themoviedb_id" : 34163,
+  "themoviedb_id" : 150024,
   "tvdb_id" : 75113,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "MOVIE",
@@ -6129,11 +6129,10 @@
   "livechart_id" : 8727,
   "mal_id" : 1923,
   "simkl_id" : 41109,
-  "themoviedb_id" : 34163,
+  "themoviedb_id" : 150026,
   "tvdb_id" : 75113,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "MOVIE",
@@ -6148,11 +6147,10 @@
   "livechart_id" : 8724,
   "mal_id" : 1924,
   "simkl_id" : 37341,
-  "themoviedb_id" : 34163,
+  "themoviedb_id" : 150027,
   "tvdb_id" : 75113,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "MOVIE",
@@ -6167,11 +6165,10 @@
   "livechart_id" : 8722,
   "mal_id" : 1925,
   "simkl_id" : 36246,
-  "themoviedb_id" : 34163,
+  "themoviedb_id" : 150028,
   "tvdb_id" : 75113,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "OVA",
@@ -21490,7 +21487,9 @@
   "animenewsnetwork_id" : 3278,
   "anime-planet_id" : "astro-boy-shinsengumi",
   "anisearch_id" : 1686,
-  "simkl_id" : 38298
+  "imdb_id" : "tt32162472",
+  "simkl_id" : 38298,
+  "themoviedb_id" : 1106568
 }, {
   "type" : "MOVIE",
   "anidb_id" : 1514,
@@ -32813,7 +32812,8 @@
   "anisearch_id" : 766,
   "kitsu_id" : 6722,
   "mal_id" : 12399,
-  "simkl_id" : 40484
+  "simkl_id" : 40484,
+  "themoviedb_id" : 742427
 }, {
   "type" : "MOVIE",
   "anidb_id" : 2412,
@@ -42390,9 +42390,11 @@
   "animecountdown_id" : 39799,
   "anime-planet_id" : "hi-no-ame-ga-furu",
   "anisearch_id" : 53,
+  "imdb_id" : "tt14724588",
   "kitsu_id" : 4346,
   "mal_id" : 5929,
-  "simkl_id" : 39799
+  "simkl_id" : 39799,
+  "themoviedb_id" : 598099
 }, {
   "type" : "TV",
   "anidb_id" : 3408,
@@ -58465,7 +58467,8 @@
   "kitsu_id" : 5135,
   "livechart_id" : 7238,
   "mal_id" : 7818,
-  "simkl_id" : 38514
+  "simkl_id" : 38514,
+  "themoviedb_id" : 466355
 }, {
   "type" : "TV",
   "anidb_id" : 5163,
@@ -58992,9 +58995,11 @@
   "animenewsnetwork_id" : 8215,
   "anime-planet_id" : "tistou-midori-no-oyayubi",
   "anisearch_id" : 4314,
+  "imdb_id" : "tt5390044",
   "kitsu_id" : 4326,
   "mal_id" : 5895,
-  "simkl_id" : 440336
+  "simkl_id" : 440336,
+  "themoviedb_id" : 137894
 }, {
   "type" : "MOVIE",
   "anidb_id" : 5230,
@@ -59378,7 +59383,8 @@
   "anisearch_id" : 4335,
   "kitsu_id" : 9387,
   "mal_id" : 19941,
-  "simkl_id" : 1571787
+  "simkl_id" : 1571787,
+  "themoviedb_id" : 787847
 }, {
   "type" : "TV",
   "anidb_id" : 5273,
@@ -63394,10 +63400,12 @@
   "animenewsnetwork_id" : 7137,
   "anime-planet_id" : "isewan-taifuu-monogatari",
   "anisearch_id" : 4796,
+  "imdb_id" : "tt14682084",
   "kitsu_id" : 9346,
   "livechart_id" : 8706,
   "mal_id" : 25305,
-  "simkl_id" : 40033
+  "simkl_id" : 40033,
+  "themoviedb_id" : 598102
 }, {
   "type" : "TV",
   "anidb_id" : 5790,
@@ -71182,9 +71190,11 @@
   "animenewsnetwork_id" : 37639,
   "anime-planet_id" : "hoshizora-no-violin",
   "anisearch_id" : 8783,
+  "imdb_id" : "tt21599296",
   "kitsu_id" : 5964,
   "mal_id" : 9957,
-  "simkl_id" : 39176
+  "simkl_id" : 39176,
+  "themoviedb_id" : 491352
 }, {
   "anidb_id" : 6698
 }, {
@@ -72896,7 +72906,8 @@
   "kitsu_id" : 9283,
   "livechart_id" : 8471,
   "mal_id" : 23265,
-  "simkl_id" : 38383
+  "simkl_id" : 38383,
+  "themoviedb_id" : 1692263
 }, {
   "type" : "MOVIE",
   "anidb_id" : 6851,
@@ -78006,7 +78017,8 @@
   "animenewsnetwork_id" : 3684,
   "anime-planet_id" : "osawaga-super-baby",
   "anisearch_id" : 6053,
-  "simkl_id" : 1572141
+  "simkl_id" : 1572141,
+  "themoviedb_id" : 1610810
 }, {
   "type" : "MOVIE",
   "anidb_id" : 7356,
@@ -96234,9 +96246,11 @@
   "animenewsnetwork_id" : 19942,
   "anime-planet_id" : "the-snow-country-prince",
   "anisearch_id" : 7718,
+  "imdb_id" : "tt15053528",
   "kitsu_id" : 9709,
   "mal_id" : 23345,
-  "simkl_id" : 37331
+  "simkl_id" : 37331,
+  "themoviedb_id" : 1448277
 }, {
   "type" : "MOVIE",
   "anidb_id" : 9064,
@@ -99756,10 +99770,12 @@
   "animenewsnetwork_id" : 22544,
   "anime-planet_id" : "on-gaku-our-sound",
   "anisearch_id" : 8032,
+  "imdb_id" : "tt10487722",
   "kitsu_id" : 43234,
   "livechart_id" : 9462,
   "mal_id" : 40331,
-  "simkl_id" : 480682
+  "simkl_id" : 480682,
+  "themoviedb_id" : 626767
 }, {
   "type" : "TV",
   "anidb_id" : 9400,
@@ -103552,7 +103568,8 @@
   "anisearch_id" : 8446,
   "kitsu_id" : 9447,
   "mal_id" : 20453,
-  "simkl_id" : 1572617
+  "simkl_id" : 1572617,
+  "themoviedb_id" : 1463893
 }, {
   "type" : "TV",
   "anidb_id" : 9764,
@@ -104686,7 +104703,8 @@
   "anisearch_id" : 8741,
   "kitsu_id" : 9689,
   "mal_id" : 18627,
-  "simkl_id" : 516986
+  "simkl_id" : 516986,
+  "themoviedb_id" : 744756
 }, {
   "type" : "SPECIAL",
   "anidb_id" : 9870,
@@ -106922,10 +106940,12 @@
   "animenewsnetwork_id" : 19756,
   "anime-planet_id" : "hinata-no-aoshigure",
   "anisearch_id" : 9026,
+  "imdb_id" : "tt8454108",
   "kitsu_id" : 8080,
   "livechart_id" : 289,
   "mal_id" : 20673,
-  "simkl_id" : 43709
+  "simkl_id" : 43709,
+  "themoviedb_id" : 273450
 }, {
   "type" : "MOVIE",
   "anidb_id" : 10087,
@@ -117898,7 +117918,8 @@
   "kitsu_id" : 10801,
   "livechart_id" : 1456,
   "mal_id" : 30378,
-  "simkl_id" : 481970
+  "simkl_id" : 481970,
+  "themoviedb_id" : 1604610
 }, {
   "type" : "TV",
   "anidb_id" : 11147,
@@ -125050,10 +125071,12 @@
   "animecountdown_id" : 540178,
   "anime-planet_id" : "puella-magi-madoka-magica-concept-movie",
   "anisearch_id" : 11356,
+  "imdb_id" : "tt6098882",
   "kitsu_id" : 11573,
   "livechart_id" : 4910,
   "mal_id" : 32153,
-  "simkl_id" : 540178
+  "simkl_id" : 540178,
+  "themoviedb_id" : 418189
 }, {
   "type" : "TV",
   "anidb_id" : 11794,
@@ -140389,10 +140412,12 @@
   "animenewsnetwork_id" : 20664,
   "anime-planet_id" : "midnight-crazy-trail",
   "anisearch_id" : 12927,
+  "imdb_id" : "tt31939127",
   "kitsu_id" : 13978,
   "livechart_id" : 2718,
   "mal_id" : 35683,
-  "simkl_id" : 691289
+  "simkl_id" : 691289,
+  "themoviedb_id" : 495867
 }, {
   "type" : "ONA",
   "anidb_id" : 13215,
@@ -182265,10 +182290,12 @@
   "animenewsnetwork_id" : 25451,
   "anime-planet_id" : "break-of-dawn",
   "anisearch_id" : 17242,
+  "imdb_id" : "tt21216020",
   "kitsu_id" : 45996,
   "livechart_id" : 11139,
   "mal_id" : 51307,
-  "simkl_id" : 1870788
+  "simkl_id" : 1870788,
+  "themoviedb_id" : 950863
 }, {
   "type" : "ONA",
   "anidb_id" : 17271,
@@ -188414,7 +188441,7 @@
   "tvdb_id" : 414096,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
   }
 }, {
   "type" : "MOVIE",
@@ -195655,7 +195682,8 @@
   "kitsu_id" : 49140,
   "livechart_id" : 12298,
   "mal_id" : 58320,
-  "simkl_id" : 2387668
+  "simkl_id" : 2387668,
+  "themoviedb_id" : 1513509
 }, {
   "type" : "ONA",
   "anidb_id" : 18513,
@@ -196491,9 +196519,11 @@
   "animenewsnetwork_id" : 30954,
   "anime-planet_id" : "detective-conan-vs-kid-the-phantom-thief",
   "anisearch_id" : 18910,
+  "imdb_id" : "tt30971662",
   "livechart_id" : 12440,
   "mal_id" : 57441,
-  "simkl_id" : 2444130
+  "simkl_id" : 2444130,
+  "themoviedb_id" : 1244064
 }, {
   "type" : "ONA",
   "anidb_id" : 18585,
@@ -197144,10 +197174,12 @@
   "animenewsnetwork_id" : 32760,
   "anime-planet_id" : "100-meters",
   "anisearch_id" : 19296,
+  "imdb_id" : "tt32600395",
   "kitsu_id" : 49072,
   "livechart_id" : 12676,
   "mal_id" : 58919,
-  "simkl_id" : 2473988
+  "simkl_id" : 2473988,
+  "themoviedb_id" : 1295026
 }, {
   "type" : "TV",
   "anidb_id" : 18649,
@@ -197319,10 +197351,12 @@
   "animenewsnetwork_id" : 32783,
   "anime-planet_id" : "batman-ninja-vs-yakuza-league",
   "anisearch_id" : 19360,
+  "imdb_id" : "tt32508210",
   "kitsu_id" : 48924,
   "livechart_id" : 12682,
   "mal_id" : 58964,
-  "simkl_id" : 2478936
+  "simkl_id" : 2478936,
+  "themoviedb_id" : 1297763
 }, {
   "type" : "ONA",
   "anidb_id" : 18667,
@@ -202722,20 +202756,24 @@
   "anilist_id" : 185900,
   "animecountdown_id" : 2720118,
   "anisearch_id" : 20246,
+  "imdb_id" : "tt37626158",
   "kitsu_id" : 50165,
   "livechart_id" : 13062,
   "mal_id" : 61039,
-  "simkl_id" : 2720118
+  "simkl_id" : 2720118,
+  "themoviedb_id" : 1479395
 }, {
   "type" : "MOVIE",
   "anidb_id" : 19170,
   "anilist_id" : 185901,
   "animecountdown_id" : 2720120,
   "anisearch_id" : 20224,
+  "imdb_id" : "tt38047814",
   "kitsu_id" : 50167,
   "livechart_id" : 13065,
   "mal_id" : 61040,
-  "simkl_id" : 2720120
+  "simkl_id" : 2720120,
+  "themoviedb_id" : 1479404
 }, {
   "type" : "MOVIE",
   "anidb_id" : 19171,
@@ -205617,10 +205655,12 @@
   "animenewsnetwork_id" : 33143,
   "anime-planet_id" : "kaiju-no-8-movie",
   "anisearch_id" : 19513,
+  "imdb_id" : "tt35636950",
   "kitsu_id" : 49102,
   "livechart_id" : 13242,
   "mal_id" : 59489,
-  "simkl_id" : 2833324
+  "simkl_id" : 2833324,
+  "themoviedb_id" : 1326106
 }, {
   "type" : "TV",
   "anidb_id" : 19472,
@@ -208170,6 +208210,7 @@
   "animenewsnetwork_id" : 38115,
   "anime-planet_id" : "uchi-no-otouto-domo-ga-sumimasen",
   "anisearch_id" : 21096,
+  "imdb_id" : "tt41293320",
   "livechart_id" : 13417,
   "mal_id" : 63061,
   "simkl_id" : 2958136,
