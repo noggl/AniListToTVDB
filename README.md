@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2026-05-13 13:34:31.683426
+anime-list-full.json was last updated at 2026-05-20 14:02:52.533070
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,22 +28,7 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Bokura no Yoake (146489)
-- Added Genroku Koi Moyou: Sankichi to Osayo (102405)
-- Added Hi no Ame ga Furu (5929)
-- Added Hinata no Aoshigure (20471)
-- Added Hoshi no Kodomo to Hajimari no Ki (185900)
-- Added Hoshizora no Violin (9957)
-- Added Hyakuemu. (177687)
-- Added Isewan Taifuu Monogatari (126642)
-- Added Kaijuu 8-gou Movie (179998)
-- Added Kimu no Juujika (19941)
-- Added Mahou Shoujo Madoka★Magica: Concept Movie (101090)
-- Added Meitantei Conan vs. Kaitou Kid (184369)
-- Added Midnight Crazy Trail (100361)
-- Added Ninja Batman tai Yakuza League (177778)
-- Added Ongaku (111944)
-- Added Osawaga! Super Baby (105230)
-- Added Tistou Midori no Oyayubi (5895)
-- Added Trust (Movie) (185901)
-- Added Yukiguni no Oujisama (121057)
+- Added Dead Dead Demons Dededede Destruction (146609)
+- Added Dead Dead Demons Dededede Destruction (167984)
+- Added Dead Dead Demons Dededede Destruction (165253)
+- Added J League wo 100-bai Tanoshiku Miru Houhou!! (181828)
