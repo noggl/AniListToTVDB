@@ -2009,10 +2009,6 @@
   "simkl_id" : 37116,
   "themoviedb_id" : {
     "movie" : 37910
-  },
-  "tvdb_id" : 82023,
-  "season" : {
-    "tvdb" : 1
   }
 }, {
   "type" : "OVA",
@@ -13317,13 +13313,18 @@
   "animenewsnetwork_id" : 325,
   "anime-planet_id" : "descendants-of-darkness",
   "anisearch_id" : 838,
+  "imdb_id" : "tt0377290",
   "kitsu_id" : 510,
   "livechart_id" : 5094,
   "mal_id" : 553,
   "simkl_id" : 40612,
-  "tvdb_id" : 78855,
+  "themoviedb_id" : {
+    "tv" : 12483
+  },
+  "tvdb_id" : 82830,
   "season" : {
-    "tvdb" : 1
+    "tvdb" : 1,
+    "tmdb" : 1
   }
 }, {
   "type" : "TV",
@@ -190944,10 +190945,19 @@
   "animecountdown_id" : 2831384,
   "anime-planet_id" : "beastars-final-season",
   "anisearch_id" : 16524,
+  "imdb_id" : "tt11043632",
   "kitsu_id" : 44914,
   "livechart_id" : 10715,
   "mal_id" : 49469,
-  "simkl_id" : 2831384
+  "simkl_id" : 2831384,
+  "themoviedb_id" : {
+    "tv" : 90937
+  },
+  "tvdb_id" : 361013,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 3
+  }
 }, {
   "type" : "OVA",
   "anidb_id" : 16445,
@@ -204241,9 +204251,6 @@
   "livechart_id" : 11733,
   "mal_id" : 53874,
   "simkl_id" : 2059218,
-  "themoviedb_id" : {
-    "tv" : 321113
-  },
   "tvdb_id" : 428456,
   "season" : {
     "tvdb" : 1
@@ -228323,7 +228330,16 @@
   }
 }, {
   "type" : "TV",
-  "anidb_id" : 19983
+  "anidb_id" : 19983,
+  "imdb_id" : "tt36034547",
+  "themoviedb_id" : {
+    "tv" : 278043
+  },
+  "tvdb_id" : 457078,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19984,
@@ -228378,6 +228394,37 @@
     "tmdb" : 1
   }
 }, {
+  "anidb_id" : 20027,
+  "imdb_id" : "tt42171190",
+  "themoviedb_id" : {
+    "tv" : 320905
+  },
+  "tvdb_id" : 457476,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20029,
+  "themoviedb_id" : {
+    "tv" : 321042
+  },
+  "tvdb_id" : 477349,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20035,
+  "themoviedb_id" : {
+    "tv" : 321518
+  },
+  "tvdb_id" : 477424,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
   "anidb_id" : 20039,
   "imdb_id" : "tt5626028",
   "themoviedb_id" : {
@@ -228387,6 +228434,26 @@
   "season" : {
     "tvdb" : 0,
     "tmdb" : 0
+  }
+}, {
+  "anidb_id" : 20060,
+  "themoviedb_id" : {
+    "tv" : 323056
+  },
+  "tvdb_id" : 478148,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20063,
+  "themoviedb_id" : {
+    "tv" : 323263
+  },
+  "tvdb_id" : 478263,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
   }
 }, {
   "type" : "SPECIAL",
