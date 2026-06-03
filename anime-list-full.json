@@ -225726,7 +225726,7 @@
   "type" : "TV",
   "anidb_id" : 19667,
   "anime-planet_id" : "the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional",
-  "imdb_id" : "tt41154853",
+  "imdb_id" : "tt38840807",
   "livechart_id" : 13369,
   "mal_id" : 62825,
   "themoviedb_id" : {
@@ -226674,6 +226674,7 @@
   "animenewsnetwork_id" : 38131,
   "anime-planet_id" : "iron-wok-jan",
   "anisearch_id" : 21083,
+  "imdb_id" : "tt42963873",
   "livechart_id" : 13427,
   "mal_id" : 63100,
   "simkl_id" : 2966140,
@@ -227172,6 +227173,9 @@
   "livechart_id" : 13476,
   "mal_id" : 63293,
   "simkl_id" : 2990962,
+  "themoviedb_id" : {
+    "tv" : 320909
+  },
   "tvdb_id" : 472641,
   "season" : {
     "tvdb" : 1
