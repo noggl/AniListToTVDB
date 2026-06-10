@@ -3115,11 +3115,7 @@
   "themoviedb_id" : {
     "tv" : 13889
   },
-  "tvdb_id" : 70525,
-  "season" : {
-    "tvdb" : 1,
-    "tmdb" : 1
-  }
+  "tvdb_id" : 70525
 }, {
   "type" : "OVA",
   "anidb_id" : 163,
@@ -8033,18 +8029,18 @@
   "animenewsnetwork_id" : 361,
   "anime-planet_id" : "ad-police-files",
   "anisearch_id" : 1413,
-  "imdb_id" : "tt0189238",
+  "imdb_id" : "tt0088655",
   "kitsu_id" : 1201,
   "livechart_id" : 6023,
   "mal_id" : 1346,
   "simkl_id" : 41602,
   "themoviedb_id" : {
-    "tv" : 31091
+    "tv" : 67818
   },
-  "tvdb_id" : 79223,
+  "tvdb_id" : 393077,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 1,
+    "tmdb" : 1
   }
 }, {
   "type" : "TV",
@@ -9290,8 +9286,8 @@
   },
   "tvdb_id" : 72796,
   "season" : {
-    "tvdb" : 2,
-    "tmdb" : 2
+    "tvdb" : 1,
+    "tmdb" : 1
   }
 }, {
   "type" : "TV",
@@ -16190,6 +16186,7 @@
   "animenewsnetwork_id" : 2663,
   "anime-planet_id" : "romance-of-the-three-kingdoms",
   "anisearch_id" : 2468,
+  "imdb_id" : "tt0421486",
   "kitsu_id" : 860,
   "livechart_id" : 8211,
   "mal_id" : 970,
@@ -20283,6 +20280,7 @@
   "animenewsnetwork_id" : 3844,
   "anime-planet_id" : "sangokushi-dainibu-choukou-moyu",
   "anisearch_id" : 1481,
+  "imdb_id" : "tt13630442",
   "kitsu_id" : 5085,
   "mal_id" : 7697,
   "simkl_id" : 1571539,
@@ -90399,6 +90397,7 @@
   "animenewsnetwork_id" : 7011,
   "anime-planet_id" : "sangokushi-1985",
   "anisearch_id" : 10332,
+  "imdb_id" : "tt0421486",
   "kitsu_id" : 5436,
   "mal_id" : 8677,
   "simkl_id" : 50814,
@@ -90418,6 +90417,7 @@
   "animenewsnetwork_id" : 7012,
   "anime-planet_id" : "sangokushi-ii-amakakeru-otoko-tachi",
   "anisearch_id" : 10333,
+  "imdb_id" : "tt0421486",
   "kitsu_id" : 5437,
   "mal_id" : 8678,
   "simkl_id" : 50816,
@@ -220428,6 +220428,7 @@
   "animecountdown_id" : 2706956,
   "anime-planet_id" : "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship",
   "anisearch_id" : 20172,
+  "imdb_id" : "tt41298100",
   "livechart_id" : 13033,
   "mal_id" : 60948,
   "simkl_id" : 2706956,
@@ -224424,6 +224425,7 @@
   "animenewsnetwork_id" : 37520,
   "anime-planet_id" : "a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires",
   "anisearch_id" : 20839,
+  "imdb_id" : "tt39551287",
   "livechart_id" : 13283,
   "mal_id" : 62289,
   "simkl_id" : 2863374,
@@ -225462,6 +225464,7 @@
   "animenewsnetwork_id" : 37890,
   "anime-planet_id" : "i-became-a-legend-after-my-10-year-long-last-stand",
   "anisearch_id" : 20962,
+  "imdb_id" : "tt39443204",
   "kitsu_id" : 50555,
   "livechart_id" : 13355,
   "mal_id" : 62617,
@@ -225868,6 +225871,7 @@
 }, {
   "type" : "TV",
   "anidb_id" : 19690,
+  "imdb_id" : "tt41278600",
   "themoviedb_id" : {
     "tv" : 312849
   },
@@ -226613,6 +226617,7 @@
   "animenewsnetwork_id" : 38122,
   "anime-planet_id" : "dara-san-of-reiwa",
   "anisearch_id" : 21085,
+  "imdb_id" : "tt39195667",
   "livechart_id" : 13420,
   "mal_id" : 63082,
   "simkl_id" : 2962970,
@@ -227169,6 +227174,7 @@
   "animecountdown_id" : 2990962,
   "anime-planet_id" : "firefly-wedding",
   "anisearch_id" : 21161,
+  "imdb_id" : "tt39394153",
   "kitsu_id" : 50471,
   "livechart_id" : 13476,
   "mal_id" : 63293,
@@ -227272,10 +227278,14 @@
   "animenewsnetwork_id" : 38308,
   "anime-planet_id" : "iwamoto-senpai-no-suisen",
   "anisearch_id" : 21168,
+  "imdb_id" : "tt41276849",
   "kitsu_id" : 50483,
   "livechart_id" : 13485,
   "mal_id" : 63324,
   "simkl_id" : 2995876,
+  "themoviedb_id" : {
+    "tv" : 324335
+  },
   "tvdb_id" : 472831,
   "season" : {
     "tvdb" : 1
@@ -227728,6 +227738,9 @@
   "livechart_id" : 13519,
   "mal_id" : 63468,
   "simkl_id" : 3019244,
+  "themoviedb_id" : {
+    "tv" : 325052
+  },
   "tvdb_id" : 473913,
   "season" : {
     "tvdb" : 1
@@ -227794,6 +227807,7 @@
   "anilist_id" : 208044,
   "animecountdown_id" : 3025908,
   "anime-planet_id" : "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage",
+  "imdb_id" : "tt40550160",
   "livechart_id" : 13527,
   "mal_id" : 63508,
   "simkl_id" : 3025908,
@@ -228398,6 +228412,26 @@
     "tmdb" : 1
   }
 }, {
+  "anidb_id" : 20020,
+  "themoviedb_id" : {
+    "tv" : 320589
+  },
+  "tvdb_id" : 477053,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20022,
+  "themoviedb_id" : {
+    "tv" : 321505
+  },
+  "tvdb_id" : 477112,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
   "anidb_id" : 20027,
   "imdb_id" : "tt42171190",
   "themoviedb_id" : {
@@ -228455,6 +228489,26 @@
     "tv" : 323263
   },
   "tvdb_id" : 478263,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20074,
+  "themoviedb_id" : {
+    "tv" : 324326
+  },
+  "tvdb_id" : 478668,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20084,
+  "themoviedb_id" : {
+    "tv" : 324862
+  },
+  "tvdb_id" : 478865,
   "season" : {
     "tvdb" : 1,
     "tmdb" : 1
