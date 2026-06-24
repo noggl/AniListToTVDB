@@ -3378,6 +3378,7 @@
   "animenewsnetwork_id" : 1196,
   "anime-planet_id" : "angel-tales",
   "anisearch_id" : 1595,
+  "imdb_id" : [ "tt2673862" ],
   "kitsu_id" : 623,
   "livechart_id" : 6058,
   "mal_id" : 682,
@@ -12283,6 +12284,7 @@
   "animenewsnetwork_id" : 1970,
   "anime-planet_id" : "angel-tales-2",
   "anisearch_id" : 2483,
+  "imdb_id" : [ "tt2673862" ],
   "kitsu_id" : 625,
   "livechart_id" : 6178,
   "mal_id" : 684,
@@ -12757,6 +12759,7 @@
   "animenewsnetwork_id" : 7013,
   "anime-planet_id" : "beast-fighter-the-apocalypse",
   "anisearch_id" : 2204,
+  "imdb_id" : [ "tt5914182" ],
   "kitsu_id" : 1533,
   "livechart_id" : 11976,
   "mal_id" : 1708,
@@ -43095,6 +43098,7 @@
   "animenewsnetwork_id" : 5194,
   "anime-planet_id" : "best-student-council",
   "anisearch_id" : 584,
+  "imdb_id" : [ "tt0991046" ],
   "kitsu_id" : 418,
   "livechart_id" : 5759,
   "mal_id" : 456,
@@ -55102,6 +55106,7 @@
   "animecountdown_id" : 41582,
   "anime-planet_id" : "majuu-sensen",
   "anisearch_id" : 1813,
+  "imdb_id" : [ "tt5914182" ],
   "kitsu_id" : 5584,
   "livechart_id" : 11975,
   "mal_id" : 9043,
@@ -216335,7 +216340,10 @@
   "tvdb_id" : 421855,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 25
   }
 }, {
   "type" : "ONA",
@@ -224957,6 +224965,7 @@
   "animecountdown_id" : 2779584,
   "anime-planet_id" : "heroine-saint-no-im-an-all-works-maid-and-proud-of-it",
   "anisearch_id" : 20492,
+  "imdb_id" : [ "tt41276835" ],
   "kitsu_id" : 49913,
   "livechart_id" : 13166,
   "mal_id" : 61686,
@@ -226490,6 +226499,7 @@
   "anilist_id" : 196218,
   "animenewsnetwork_id" : 37095,
   "anime-planet_id" : "the-frontier-lord-begins-with-zero-subjects",
+  "imdb_id" : [ "tt41054252" ],
   "kitsu_id" : 50049,
   "livechart_id" : 13249,
   "mal_id" : 62078,
@@ -229893,6 +229903,7 @@
   "animenewsnetwork_id" : 38330,
   "anime-planet_id" : "fx-senshi-kurumi-chan",
   "anisearch_id" : 21172,
+  "imdb_id" : [ "tt43119470" ],
   "livechart_id" : 13490,
   "mal_id" : 63337,
   "simkl_id" : 2997994,
@@ -230158,10 +230169,14 @@
   "animenewsnetwork_id" : 38418,
   "anime-planet_id" : "thunder-3",
   "anisearch_id" : 21226,
+  "imdb_id" : [ "tt43589481" ],
   "kitsu_id" : 50519,
   "livechart_id" : 13511,
   "mal_id" : 63418,
   "simkl_id" : 3012816,
+  "themoviedb_id" : {
+    "tv" : 326119
+  },
   "tvdb_id" : 473563,
   "season" : {
     "tvdb" : 1
