@@ -15579,6 +15579,7 @@
   "animecountdown_id" : 39686,
   "anime-planet_id" : "dokkoida",
   "anisearch_id" : 1220,
+  "imdb_id" : [ "tt2238049" ],
   "kitsu_id" : 1654,
   "livechart_id" : 7996,
   "mal_id" : 1837,
@@ -36498,7 +36499,10 @@
   "themoviedb_id" : {
     "tv" : 30984
   },
-  "tvdb_id" : 74796
+  "tvdb_id" : 74796,
+  "season" : {
+    "tmdb" : 1
+  }
 }, {
   "type" : "MOVIE",
   "anidb_id" : 2371,
@@ -57917,16 +57921,14 @@
   "mal_id" : 1686,
   "simkl_id" : 37112,
   "themoviedb_id" : {
-    "tv" : 30984
+    "movie" : [ 15575 ]
   },
   "tvdb_id" : 74796,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   },
   "episode_offset" : {
-    "tvdb" : 2,
-    "tmdb" : 2
+    "tvdb" : 2
   }
 }, {
   "type" : "TV",
@@ -66965,12 +66967,11 @@
   "mal_id" : 2889,
   "simkl_id" : 41292,
   "themoviedb_id" : {
-    "tv" : 30984
+    "movie" : [ 17101 ]
   },
   "tvdb_id" : 74796,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "TV",
@@ -72776,12 +72777,11 @@
   "mal_id" : 4835,
   "simkl_id" : 37796,
   "themoviedb_id" : {
-    "tv" : 30984
+    "movie" : [ 17165 ]
   },
   "tvdb_id" : 74796,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "OVA",
@@ -90728,12 +90728,11 @@
   "mal_id" : 8247,
   "simkl_id" : 38134,
   "themoviedb_id" : {
-    "tv" : 30984
+    "movie" : [ 73245 ]
   },
   "tvdb_id" : 74796,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   }
 }, {
   "type" : "MOVIE",
@@ -182468,7 +182467,7 @@
   "tvdb_id" : 74796,
   "season" : {
     "tvdb" : 17,
-    "tmdb" : 17
+    "tmdb" : 2
   }
 }, {
   "type" : "MOVIE",
@@ -185988,7 +185987,10 @@
   "tvdb_id" : 380654,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 12
   }
 }, {
   "type" : "ONA",
@@ -204515,7 +204517,10 @@
   "tvdb_id" : 380654,
   "season" : {
     "tvdb" : 3,
-    "tmdb" : 3
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 24
   }
 }, {
   "type" : "TV",
@@ -206400,10 +206405,11 @@
   "tvdb_id" : 74796,
   "season" : {
     "tvdb" : 17,
-    "tmdb" : 17
+    "tmdb" : 2
   },
   "episode_offset" : {
-    "tvdb" : 13
+    "tvdb" : 13,
+    "tmdb" : 13
   }
 }, {
   "type" : "TV",
@@ -206836,10 +206842,19 @@
   "animecountdown_id" : 2063646,
   "anime-planet_id" : "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs-2nd-season",
   "anisearch_id" : 17984,
+  "imdb_id" : [ "tt16255458" ],
   "kitsu_id" : 46925,
   "livechart_id" : 11761,
   "mal_id" : 54000,
-  "simkl_id" : 2063646
+  "simkl_id" : 2063646,
+  "themoviedb_id" : {
+    "tv" : 139512
+  },
+  "tvdb_id" : 412826,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 17799,
@@ -212179,10 +212194,11 @@
   "tvdb_id" : 74796,
   "season" : {
     "tvdb" : 17,
-    "tmdb" : 17
+    "tmdb" : 2
   },
   "episode_offset" : {
-    "tvdb" : 26
+    "tvdb" : 26,
+    "tmdb" : 26
   }
 }, {
   "type" : "ONA",
@@ -213674,7 +213690,10 @@
   "tvdb_id" : 432050,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 12
   }
 }, {
   "type" : "TV",
@@ -217205,10 +217224,19 @@
   "animenewsnetwork_id" : 32765,
   "anime-planet_id" : "mashle-magic-muscles-season-3",
   "anisearch_id" : 19288,
+  "imdb_id" : [ "tt21209804" ],
   "kitsu_id" : 48903,
   "livechart_id" : 12680,
   "mal_id" : 58934,
-  "simkl_id" : 2475640
+  "simkl_id" : 2475640,
+  "themoviedb_id" : {
+    "tv" : 204832
+  },
+  "tvdb_id" : 421737,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 3
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 18654,
@@ -218153,9 +218181,18 @@
   "anilist_id" : 178789,
   "anime-planet_id" : "mushoku-tensei-jobless-reincarnation-3rd-season",
   "anisearch_id" : 19443,
+  "imdb_id" : [ "tt13293588" ],
   "kitsu_id" : 49002,
   "livechart_id" : 12735,
-  "mal_id" : 59193
+  "mal_id" : 59193,
+  "themoviedb_id" : {
+    "tv" : 94664
+  },
+  "tvdb_id" : 371310,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 3
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 18728,
@@ -218461,7 +218498,10 @@
   "tvdb_id" : 380654,
   "season" : {
     "tvdb" : 4,
-    "tmdb" : 4
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 36
   }
 }, {
   "type" : "TV",
@@ -221991,10 +222031,19 @@
   "animecountdown_id" : 2661530,
   "anime-planet_id" : "skeleton-knight-in-another-world-2",
   "anisearch_id" : 19951,
+  "imdb_id" : [ "tt14476236" ],
   "kitsu_id" : 49410,
   "livechart_id" : 12970,
   "mal_id" : 60522,
-  "simkl_id" : 2661530
+  "simkl_id" : 2661530,
+  "themoviedb_id" : {
+    "tv" : 123528
+  },
+  "tvdb_id" : 401279,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19054,
@@ -222368,10 +222417,23 @@
   "animecountdown_id" : 2671730,
   "anime-planet_id" : "bleach-thousand-year-blood-war-part-iv-the-calamity",
   "anisearch_id" : 20029,
+  "imdb_id" : [ "tt0434665" ],
   "kitsu_id" : 49444,
   "livechart_id" : 11469,
   "mal_id" : 60636,
-  "simkl_id" : 2671730
+  "simkl_id" : 2671730,
+  "themoviedb_id" : {
+    "tv" : 30984
+  },
+  "tvdb_id" : 74796,
+  "season" : {
+    "tvdb" : 17,
+    "tmdb" : 2
+  },
+  "episode_offset" : {
+    "tvdb" : 40,
+    "tmdb" : 40
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19080,
@@ -225652,10 +225714,19 @@
   "animenewsnetwork_id" : 36693,
   "anime-planet_id" : "from-old-country-bumpkin-to-master-swordsman-season-2",
   "anisearch_id" : 20658,
+  "imdb_id" : [ "tt35346717" ],
   "kitsu_id" : 49995,
   "livechart_id" : 13207,
   "mal_id" : 61897,
-  "simkl_id" : 2818476
+  "simkl_id" : 2818476,
+  "themoviedb_id" : {
+    "tv" : 260823
+  },
+  "tvdb_id" : 452710,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 19401,
@@ -227537,7 +227608,10 @@
   "tvdb_id" : 380654,
   "season" : {
     "tvdb" : 5,
-    "tmdb" : 5
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 48
   }
 }, {
   "type" : "ONA",
@@ -228228,7 +228302,19 @@
   }
 }, {
   "type" : "TV",
-  "anidb_id" : 19663
+  "anidb_id" : 19663,
+  "imdb_id" : [ "tt28919914" ],
+  "themoviedb_id" : {
+    "tv" : 223564
+  },
+  "tvdb_id" : 432050,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 24
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19664,
@@ -230884,7 +230970,16 @@
   }
 }, {
   "type" : "TV",
-  "anidb_id" : 19978
+  "anidb_id" : 19978,
+  "imdb_id" : [ "tt38646634" ],
+  "themoviedb_id" : {
+    "tv" : 280049
+  },
+  "tvdb_id" : 457532,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19979
@@ -231072,6 +231167,20 @@
   "season" : {
     "tvdb" : 1,
     "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20136,
+  "imdb_id" : [ "tt11448214" ],
+  "themoviedb_id" : {
+    "tv" : 96316
+  },
+  "tvdb_id" : 380654,
+  "season" : {
+    "tvdb" : 6,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 60
   }
 }, {
   "type" : "SPECIAL",

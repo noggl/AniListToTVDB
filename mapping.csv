@@ -112,10 +112,10 @@ Black Jack the Movie;1521;{'tv': 30083};1
 Black Jack the Movie;10055;{'tv': 30083};2
 Black Jack: Futari no Kuroi Isha;1983;{'tv': 35868};1
 Blame! Movie;21498;{'tv': 94936};1
-Bleach Movie 1: Memories of Nobody;1686;{'tv': 30984};1
-Bleach Movie 1: Memories of Nobody;2889;{'tv': 30984};2
-Bleach Movie 1: Memories of Nobody;4835;{'tv': 30984};3
-Bleach Movie 1: Memories of Nobody;8247;{'tv': 30984};4
+Bleach Movie 1: Memories of Nobody;1686;{'movie': [15575]};1
+Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru;2889;{'movie': [17101]};1
+Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu;4835;{'movie': [17165]};1
+Bleach Movie 4: Jigoku-hen;8247;{'movie': [73245]};1
 Blood-C: The Last Dark;10681;{'tv': 43270};1
 Blood: The Last Vampire;405;{'tv': 19849};1
 Bloody Escape: Jigoku no Tousou Geki;144770;{'movie': [1103432]};1
