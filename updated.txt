@@ -1,8 +1,5 @@
-anime-list-full.json was last updated at 2026-07-01 13:50:43.368818
+anime-list-full.json was last updated at 2026-07-08 13:01:06.011786
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Dead Dead Demons Dededede Destruction (146609)
-Added Dead Dead Demons Dededede Destruction (167984)
-Added Dead Dead Demons Dededede Destruction (165253)
-Added J League wo 100-bai Tanoshiku Miru Houhou!! (181828)
+Added Ponsuke no Haru (104081)

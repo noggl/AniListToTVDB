@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2026-05-20 14:02:52.533070
+anime-list-full.json was last updated at 2026-07-08 13:01:06.011786
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,7 +28,4 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Dead Dead Demons Dededede Destruction (146609)
-- Added Dead Dead Demons Dededede Destruction (167984)
-- Added Dead Dead Demons Dededede Destruction (165253)
-- Added J League wo 100-bai Tanoshiku Miru Houhou!! (181828)
+- Added Ponsuke no Haru (104081)
