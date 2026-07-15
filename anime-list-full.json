@@ -35938,6 +35938,7 @@
   "animenewsnetwork_id" : 751,
   "anime-planet_id" : "sukeban-deka",
   "anisearch_id" : 2091,
+  "imdb_id" : [ "tt0133222" ],
   "kitsu_id" : 2486,
   "livechart_id" : 8171,
   "mal_id" : 2726,
@@ -58941,6 +58942,7 @@
   "animenewsnetwork_id" : 7957,
   "anime-planet_id" : "joseito",
   "anisearch_id" : 3739,
+  "imdb_id" : [ "tt5098508" ],
   "kitsu_id" : 4495,
   "livechart_id" : 10981,
   "mal_id" : 6266,
@@ -63415,7 +63417,7 @@
   "animenewsnetwork_id" : 3398,
   "anime-planet_id" : "elf-17",
   "anisearch_id" : 4114,
-  "imdb_id" : [ "tt5162492" ],
+  "imdb_id" : [ "" ],
   "kitsu_id" : 5673,
   "livechart_id" : 7764,
   "mal_id" : 9324,
@@ -211856,10 +211858,19 @@
   "animecountdown_id" : 2252084,
   "anime-planet_id" : "azur-lane-slow-ahead-2nd-season",
   "anisearch_id" : 18684,
+  "imdb_id" : [ "tt13084120" ],
   "kitsu_id" : 47929,
   "livechart_id" : 12324,
   "mal_id" : 56613,
-  "simkl_id" : 2252084
+  "simkl_id" : 2252084,
+  "themoviedb_id" : {
+    "tv" : 109805
+  },
+  "tvdb_id" : 392491,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 18190,
@@ -212192,10 +212203,19 @@
   "animenewsnetwork_id" : 30080,
   "anime-planet_id" : "the-insipid-princes-furtive-grab-for-the-throne",
   "anisearch_id" : 18712,
+  "imdb_id" : [ "tt32862795" ],
   "kitsu_id" : 47989,
   "livechart_id" : 12345,
   "mal_id" : 56736,
-  "simkl_id" : 2263626
+  "simkl_id" : 2263626,
+  "themoviedb_id" : {
+    "tv" : 284581
+  },
+  "tvdb_id" : 476185,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 18211,
@@ -212203,10 +212223,19 @@
   "animecountdown_id" : 2263628,
   "anime-planet_id" : "oh-boy-was-i-wrong-about-her",
   "anisearch_id" : 18714,
+  "imdb_id" : [ "tt41278615" ],
   "kitsu_id" : 47988,
   "livechart_id" : 12343,
   "mal_id" : 56735,
-  "simkl_id" : 2263628
+  "simkl_id" : 2263628,
+  "themoviedb_id" : {
+    "tv" : 250008
+  },
+  "tvdb_id" : 467401,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 18213,
@@ -220620,10 +220649,19 @@
   "animecountdown_id" : 2601798,
   "anime-planet_id" : "the-elusive-samurai-2nd-season",
   "anisearch_id" : 19694,
+  "imdb_id" : [ "tt27187054" ],
   "kitsu_id" : 49265,
   "livechart_id" : 12874,
   "mal_id" : 60059,
-  "simkl_id" : 2601798
+  "simkl_id" : 2601798,
+  "themoviedb_id" : {
+    "tv" : 222623
+  },
+  "tvdb_id" : 432455,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 18904,
@@ -222400,10 +222438,19 @@
   "animenewsnetwork_id" : 34218,
   "anime-planet_id" : "magilumiere-co-ltd-2nd-season",
   "anisearch_id" : 19962,
+  "imdb_id" : [ "tt30476504" ],
   "kitsu_id" : 49427,
   "livechart_id" : 12981,
   "mal_id" : 60552,
-  "simkl_id" : 2665960
+  "simkl_id" : 2665960,
+  "themoviedb_id" : {
+    "tv" : 240576
+  },
+  "tvdb_id" : 442767,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19064,
@@ -225097,6 +225144,7 @@
   "animecountdown_id" : 2764258,
   "anime-planet_id" : "seitokai-ni-mo-ana-wa-aru",
   "anisearch_id" : 20474,
+  "imdb_id" : [ "tt43650242" ],
   "kitsu_id" : 49877,
   "livechart_id" : 13150,
   "mal_id" : 61578,
@@ -227829,10 +227877,19 @@
   "animenewsnetwork_id" : 37848,
   "anime-planet_id" : "clevatess-season-2",
   "anisearch_id" : 20894,
+  "imdb_id" : [ "tt32991344" ],
   "kitsu_id" : 50154,
   "livechart_id" : 13323,
   "mal_id" : 62513,
-  "simkl_id" : 2884094
+  "simkl_id" : 2884094,
+  "themoviedb_id" : {
+    "tv" : 258348
+  },
+  "tvdb_id" : 451793,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "UNKNOWN",
   "anidb_id" : 19582
@@ -228501,6 +228558,9 @@
   "livechart_id" : 13363,
   "mal_id" : 62696,
   "simkl_id" : 2899118,
+  "themoviedb_id" : {
+    "tv" : 327765
+  },
   "tvdb_id" : 469167,
   "season" : {
     "tvdb" : 1
@@ -228884,10 +228944,19 @@
   "animenewsnetwork_id" : 37954,
   "anime-planet_id" : "bungo-stray-dogs-wan-2",
   "anisearch_id" : 21002,
+  "imdb_id" : [ "tt13192574" ],
   "kitsu_id" : 50328,
   "livechart_id" : 13378,
   "mal_id" : 62883,
-  "simkl_id" : 2919768
+  "simkl_id" : 2919768,
+  "themoviedb_id" : {
+    "tv" : 110837
+  },
+  "tvdb_id" : 392195,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19699,
@@ -229450,6 +229519,10 @@
 }, {
   "type" : "TV",
   "anidb_id" : 19751,
+  "imdb_id" : [ "tt41054228" ],
+  "themoviedb_id" : {
+    "tv" : 328010
+  },
   "tvdb_id" : 471128,
   "season" : {
     "tvdb" : 1
@@ -230083,7 +230156,20 @@
   }
 }, {
   "type" : "TV",
-  "anidb_id" : 19816
+  "anidb_id" : 19816,
+  "imdb_id" : [ "tt37532599" ],
+  "themoviedb_id" : {
+    "tv" : 293629
+  },
+  "tvdb_id" : 464693,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tvdb" : 12,
+    "tmdb" : 12
+  }
 }, {
   "type" : "MOVIE",
   "anidb_id" : 19819
@@ -230253,7 +230339,16 @@
   }
 }, {
   "type" : "TV",
-  "anidb_id" : 19838
+  "anidb_id" : 19838,
+  "imdb_id" : [ "tt32869308" ],
+  "themoviedb_id" : {
+    "tv" : 297826
+  },
+  "tvdb_id" : 452039,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19839,
@@ -231267,10 +231362,19 @@
   "animenewsnetwork_id" : 38789,
   "anime-planet_id" : "hana-kimi-season-2",
   "anisearch_id" : 21327,
+  "imdb_id" : [ "tt38646611" ],
   "kitsu_id" : 50613,
   "livechart_id" : 13564,
   "mal_id" : 63780,
-  "simkl_id" : 3058024
+  "simkl_id" : 3058024,
+  "themoviedb_id" : {
+    "tv" : 254492
+  },
+  "tvdb_id" : 450072,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19967,
@@ -232064,6 +232168,7 @@
   "anilist_id" : 213338,
   "animenewsnetwork_id" : 40053,
   "anisearch_id" : 21767,
+  "imdb_id" : [ "tt43608469" ],
   "kitsu_id" : 50771,
   "mal_id" : 64428,
   "themoviedb_id" : {
@@ -232315,7 +232420,16 @@
   "anidb_id" : 20166
 }, {
   "type" : "TV",
-  "anidb_id" : 20167
+  "anidb_id" : 20167,
+  "imdb_id" : [ "tt29521186" ],
+  "themoviedb_id" : {
+    "tv" : 237233
+  },
+  "tvdb_id" : 440897,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 20168
