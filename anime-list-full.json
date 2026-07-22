@@ -162204,7 +162204,7 @@
   "animenewsnetwork_id" : 20612,
   "anime-planet_id" : "last-period-the-journey-to-the-end-of-the-despair",
   "anisearch_id" : 13319,
-  "imdb_id" : [ "" ],
+  "imdb_id" : [ "tt31180254" ],
   "kitsu_id" : 41131,
   "livechart_id" : 3069,
   "mal_id" : 37254,
@@ -216406,7 +216406,10 @@
   "tvdb_id" : 431162,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 24
   }
 }, {
   "type" : "TV",
@@ -225802,7 +225805,7 @@
   "animecountdown_id" : 2807370,
   "anime-planet_id" : "the-ogres-bride",
   "anisearch_id" : 20646,
-  "imdb_id" : [ "tt39112665" ],
+  "imdb_id" : [ "tt39113208" ],
   "kitsu_id" : 49978,
   "livechart_id" : 13188,
   "mal_id" : 61814,
@@ -226460,10 +226463,22 @@
   "animenewsnetwork_id" : 37932,
   "anime-planet_id" : "the-apothecary-diaries-3rd-season",
   "anisearch_id" : 20704,
+  "imdb_id" : [ "tt26743760" ],
   "kitsu_id" : 50021,
   "livechart_id" : 13226,
   "mal_id" : 61987,
-  "simkl_id" : 2909052
+  "simkl_id" : 2909052,
+  "themoviedb_id" : {
+    "tv" : 220542
+  },
+  "tvdb_id" : 431162,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 48
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 19445,
@@ -228407,6 +228422,7 @@
   "animenewsnetwork_id" : 37888,
   "anime-planet_id" : "tetsuryou-meet-with-tetsudou-musume",
   "anisearch_id" : 20961,
+  "imdb_id" : [ "tt43691398" ],
   "kitsu_id" : 50217,
   "livechart_id" : 13350,
   "mal_id" : 62615,
@@ -228770,7 +228786,19 @@
 }, {
   "type" : "TV",
   "anidb_id" : 19671,
-  "anisearch_id" : 20989
+  "anisearch_id" : 20989,
+  "imdb_id" : [ "tt26743760" ],
+  "themoviedb_id" : {
+    "tv" : 220542
+  },
+  "tvdb_id" : 431162,
+  "season" : {
+    "tvdb" : 4,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 72
+  }
 }, {
   "type" : "SPECIAL",
   "anidb_id" : 19672,
@@ -231174,6 +231202,7 @@
   "animecountdown_id" : 3046168,
   "animenewsnetwork_id" : 38661,
   "anime-planet_id" : "so-whats-wrong-with-getting-reborn-as-a-goblin",
+  "imdb_id" : [ "tt43691383" ],
   "kitsu_id" : 50607,
   "livechart_id" : 13548,
   "mal_id" : 63712,
@@ -231282,9 +231311,13 @@
   "animecountdown_id" : 3054044,
   "animenewsnetwork_id" : 38726,
   "anime-planet_id" : "tank-chair",
+  "imdb_id" : [ "tt43691394" ],
   "livechart_id" : 13556,
   "mal_id" : 63751,
   "simkl_id" : 3054044,
+  "themoviedb_id" : {
+    "tv" : 320377
+  },
   "tvdb_id" : 475617,
   "season" : {
     "tvdb" : 1
@@ -231292,6 +231325,9 @@
 }, {
   "type" : "TV",
   "anidb_id" : 19953,
+  "themoviedb_id" : {
+    "tv" : 329096
+  },
   "tvdb_id" : 475628,
   "season" : {
     "tvdb" : 1
@@ -231444,7 +231480,20 @@
 }, {
   "type" : "TV",
   "anidb_id" : 19975,
-  "mal_id" : 63824
+  "imdb_id" : [ "tt12343534" ],
+  "mal_id" : 63824,
+  "themoviedb_id" : {
+    "tv" : 95479
+  },
+  "tvdb_id" : 377543,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tvdb" : 12,
+    "tmdb" : 59
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19977,
@@ -231499,7 +231548,10 @@
   "tvdb_id" : 457078,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 12
   }
 }, {
   "type" : "TV",
