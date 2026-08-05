@@ -1,5 +1,5 @@
-anime-list-full.json was last updated at 2026-07-29 13:13:16.337559
+anime-list-full.json was last updated at 2026-08-05 13:09:13.462146
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Ponsuke no Haru (104081)
+Added Kimetsu no Yaiba Movie: Mugen Jou-hen (178788)
