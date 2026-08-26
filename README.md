@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2026-08-05 13:09:13.462146
+anime-list-full.json was last updated at 2026-08-26 11:55:00.540556
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,4 +28,6 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Kimetsu no Yaiba Movie: Mugen Jou-hen (178788)
+- Added Boku no Son Gokuu (20189)
+- Added Hateshinaki Scarlet (185773)
+- Added Kacchikenee! (21397)

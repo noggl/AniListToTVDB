@@ -1,5 +1,7 @@
-anime-list-full.json was last updated at 2026-08-19 11:49:30.098955
+anime-list-full.json was last updated at 2026-08-26 11:55:00.540556
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Kimetsu no Yaiba Movie: Mugen Jou-hen (178788)
+Added Boku no Son Gokuu (20189)
+Added Hateshinaki Scarlet (185773)
+Added Kacchikenee! (21397)
