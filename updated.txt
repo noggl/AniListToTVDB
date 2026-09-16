@@ -1,9 +1,5 @@
-anime-list-full.json was last updated at 2026-09-09 15:13:12.988169
+anime-list-full.json was last updated at 2026-09-16 15:28:37.716796
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
-Added Ginga Eiyuu Densetsu: Die Neue These - Sakubou (148970)
-Added Kidou Senshi Gundam: Senkou no Hathaway (105595)
-Added Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari (11977)
-Added Shinsengumi (188941)
-Added Tiger & Bunny Movie 1: The Beginning (12015)
+Added Mahoutsukai no Yoru (143103)
