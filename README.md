@@ -20,7 +20,7 @@ Run the script with `python3 createCSV.py`. This will clone/update the github re
 There are 2 available flags, `-f` and `-g`, which will force the creation of the CSV file or commit to github respectively. The first is useful for testing, the second is used in the github action that keeps this repo up to date.
 
 ## Status
-anime-list-full.json was last updated at 2026-09-16 15:28:37.716796
+anime-list-full.json was last updated at 2026-09-23 15:30:30.510707
 
 anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
@@ -28,4 +28,8 @@ anime-offline-database.json was last updated at 2025-06-21 11:37:42.518331
 
 Recent Updates:
 
-- Added Mahoutsukai no Yoru (143103)
+- Added Given Movie 1 (111734)
+- Added Given Movie 2: Hiiragi Mix (162987)
+- Added Kagami no Genon (4091)
+- Added Mahou Gakuen Lunar! Aoi Ryuu no Himitsu (1990)
+- Added Ohoshi-sama no Rail (1329)
